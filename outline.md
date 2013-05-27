@@ -5,6 +5,8 @@ __*How can I make the right choice?*__
 > Attending a full-time programming school is a big investment of time, money, and personal dreams. We are here to help you make an informed choice.
 >
 > Let's start at the top. Many people obsess over details comparing the schools. The question you should be asking is - _why am I applying and what do I want out of it?_ In other words, you should consider the __ROI__ of attending a full-time programming school.
+>
+> 
 
 ### CH 1. Overview ###
 __*What is a programming school?*__
