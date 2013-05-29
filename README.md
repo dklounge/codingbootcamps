@@ -4,7 +4,7 @@
 
 ## TODO
 
-- [x] Outline
+- [ ] Outline
 - [x] Name
 - [x] LeanPub Page
 
