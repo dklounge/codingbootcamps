@@ -2,14 +2,28 @@
 
 ### How to make money and do the job you love
 
+### By David Kim and Azat Mardanov
+
 ## TODO
 
 - [ ] Outline
-- [x] Name
-- [x] LeanPub Page
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] Name: research most popular search term, e.g., 'code academy' vs. 'programming cources'
+- [ ] LeanPub Page
+- [x] Twitter
+- [ ] Domain (.com) email, etc.
+- [ ] master list of schoold (25 max)
+- [ ] testimonials from grads (~5)
+- [ ] research on areas (NYC vs. Bay Area) salary-wise
+- [ ] research on languages (Python vs. Rails vs. Node.js) salary-wise
+- [ ] promote on blogs, social media, meetups
 
-### By David Kim and Azat Mardanov
+## Workflow
+
+Suggested workflow:
+
+1. manuscript in GitHub
+2. clone repo to LeanPub-shared dropbox
+3. Promote LeanPub page -> $$$
+3. LeanPub -> PDF -> Lulu.com -> $$$
+
+
