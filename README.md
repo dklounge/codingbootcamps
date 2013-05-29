@@ -5,7 +5,7 @@
 ## TODO
 
 - [ ] Outline
-- [ ] Name
+- [x] Name
 - [ ] LeanPub Page
 
 ### By David Kim and Azat Mardanov
