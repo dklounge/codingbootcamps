@@ -42,3 +42,14 @@ Suggested workflow:
 
 
 Programming School Case Study Form: https://docs.google.com/forms/d/1Z2q8rZJLLgAwEHZappN25fTiWdI88dsZPscLuzs6jM8/viewform
+
+Comparison Table: https://docs.google.com/spreadsheet/ccc?key=0Aguu4xCVkKladGVXM2hZSVp3UDZzQWEyM3E3b3ViUEE#gid=0
+
+Note: I'll break this table into two (rating in a separate), this is just an example!
+
+## Links
+
+* https://docs.google.com/spreadsheet/pub?key=0ArtCiuh2ZmMidHRQSXl1Y3F5M09ZNnAyNWJTNVgxNmc&gid=0
+* http://michelleglauser.blogspot.com/2013/03/resources-for-learning-to-code-and.html
+* http://www.bootcamps.in/class/
+* http://bootcamper.io/t/type/in-class
