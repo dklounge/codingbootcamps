@@ -48,6 +48,8 @@ __*Quora*__
 
 __*Self-study option: MOOCs*__
 
+Some of MOOCs: http://www.webapplog.com/online-education-overview/
+
 __*Minerva Project*__
 
 __*Meetups*__
