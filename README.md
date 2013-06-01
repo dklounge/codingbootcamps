@@ -17,6 +17,20 @@
 - [ ] research on languages (Python vs. Rails vs. Node.js) salary-wise
 - [ ] promote on blogs, social media, meetups
 
+## First sprint (due June 8th)
+
+1. Case study form (Azat)
+2. Master table of schools (Azat)
+3. LeanPub(Azat)
+4. title with seo (David)
+5. Content: introduction, interviews, MBA vs. hack schools, find some blogs in addition to case study
+6. FAQ (David)
+7. Authors (David)
+ 
+Due June 8th
+
+Target rough, mostly content
+
 ## Workflow
 
 Suggested workflow:
@@ -27,3 +41,4 @@ Suggested workflow:
 3. LeanPub -> PDF -> Lulu.com -> $$$
 
 
+Programming School Case Study Form: https://docs.google.com/forms/d/1Z2q8rZJLLgAwEHZappN25fTiWdI88dsZPscLuzs6jM8/viewform
