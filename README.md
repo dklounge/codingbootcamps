@@ -22,14 +22,15 @@
 1. Case study form (Azat)
 2. Master table of schools (Azat)
 3. LeanPub(Azat)
-4. title with seo (David)
-> looked at Google SEO and talked to some friends. I think SEO only makes sense with content. 
-> We can use popular keywords, but probably better to simply use catchy title that optimizes for word of mouth sharing
-> For popular keywords analysis, will export to google doc spreadsheet
+4. title with seo (David):
+a) looked at Google SEO and talked to some friends. I think SEO only makes sense with content. 
+b) We can use popular keywords, but probably better to simply use catchy title that optimizes for word of mouth sharing
+c) For popular keywords analysis, will export to google doc spreadsheet
 5. Content outline: introduction, interviews, MBA vs. hack schools, find some blogs in addition to case study
-> see detailed outline
+a) also, see detailed outline
 6. FAQ (David)
-7. Authors (David)
+7. Authors (David):
+a) wrote aboutus.md
  
 Due June 8th
 
