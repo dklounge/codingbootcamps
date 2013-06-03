@@ -10,6 +10,9 @@ Azat is an entrepreneur and web & mobile developer who practices yoga, and is a 
 
 
 ### dklounge ###
+
+!['David profile'](http://m3.licdn.com/mpr/pub/image-F1XtkI4Zld6aTDY77Lo-VD_oDPammsFcScyz5G6kD4W2dV8wF1XzosAZD_X8myyvpBpZ/david-c-kim.jpg "David")
+
 David Kim is the head of business development at Hack Reactor in San Francisco.  David interacts extensively with top-tier companies in the Bay Area, and has a keen sense of skills necessary for graduates to succeed in the market. 
 
 David is a life hacker who solves problems and creates resources by connecting people. David enjoys outdoors and runs 13 miles on a whim, because he can.  David also found and organizes Ruby Rookies and Product Management Fast-Track, which are communities geared toward beginners to programming and prospective product managers, respectively.
