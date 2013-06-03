@@ -5,6 +5,9 @@
 4. Is Coding School Right for You?
 5. Top Programming School Rankings
 6. God, Are you Coding?
+7. Programming School Cheat Sheet
+8. Preview of Programming Schools
+
 
 #### Subtitle ####
 1. Fast-track to getting in
