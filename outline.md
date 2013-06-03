@@ -1,6 +1,6 @@
 ### TOC ###
 
-### 0. Preface ###
+### Intro ###
 __*How can I make the right choice?*__
 > Attending a full-time programming school is a big investment of time, money, and personal dreams. We are here to help you make an informed choice.
 >
