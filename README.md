@@ -23,7 +23,11 @@
 2. Master table of schools (Azat)
 3. LeanPub(Azat)
 4. title with seo (David)
-5. Content: introduction, interviews, MBA vs. hack schools, find some blogs in addition to case study
+> looked at Google SEO and talked to some friends. I think SEO only makes sense with content. 
+> We can use popular keywords, but probably better to simply use catchy title that optimizes for word of mouth sharing
+> For popular keywords analysis, will export to google doc spreadsheet
+5. Content outline: introduction, interviews, MBA vs. hack schools, find some blogs in addition to case study
+> see detailed outline
 6. FAQ (David)
 7. Authors (David)
  
