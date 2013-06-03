@@ -2,7 +2,7 @@
 
 ### azat_co ###
 
-["azat profile"]: http://m3.licdn.com/mpr/pub/image-5LJLe3TfTPwgq1rB11uZvTh9nU1n2QzRej5Ok3aRnNRn2lLv5LJOZf6fn2mD29tdsSIW/azat-mardanov.jpg "Azat"
+!['Azat profile'](http://m3.licdn.com/mpr/pub/image-5LJLe3TfTPwgq1rB11uZvTh9nU1n2QzRej5Ok3aRnNRn2lLv5LJOZf6fn2mD29tdsSIW/azat-mardanov.jpg "Azat")
 
 Azat Mardanov teaches at Hack Reactor, a premier JavaScript software engineer training school in San Francisco. Azat is an experienced developer-educator who also mentors developers through General Assembly and as an instructor for Marakana. 
 
