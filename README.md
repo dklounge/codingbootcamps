@@ -7,30 +7,29 @@
 ## TODO
 
 - [ ] Outline
-- [ ] Name: research most popular search term, e.g., 'code academy' vs. 'programming cources'
+- [ ] Name: research most popular search term, e.g., 'code academy' vs. 'programming courses'
 - [ ] LeanPub Page
-- [x] Twitter
+- [x] Twitter -> but we may want to rename it
 - [ ] Domain (.com) email, etc.
-- [ ] master list of schoold (25 max)
-- [ ] testimonials from grads (~5)
+- [ ] master list of schools (25 max)
+- [ ] testimonials from grads (~5) -> I'm thinking it should be higher #
 - [ ] research on areas (NYC vs. Bay Area) salary-wise
 - [ ] research on languages (Python vs. Rails vs. Node.js) salary-wise
 - [ ] promote on blogs, social media, meetups
 
 ## First sprint (due June 8th)
 
-1. Case study form (Azat)
+1. Case study form (Azat) - done, revised by David
 2. Master table of schools (Azat)
 3. LeanPub(Azat)
 4. title with seo (David):
-a) looked at Google SEO and talked to some friends. I think SEO only makes sense with content. 
+a) looked at Google SEO and talked to some friends. I think SEO only makes sense with content.
 b) We can use popular keywords, but probably better to simply use catchy title that optimizes for word of mouth sharing
 c) For popular keywords analysis, will export to google doc spreadsheet
 5. Content outline: introduction, interviews, MBA vs. hack schools, find some blogs in addition to case study
 a) also, see detailed outline
-6. FAQ (David)
-7. Authors (David):
-a) wrote aboutus.md
+6. FAQ (David) 
+7. Authors (David) - done, wrote aboutus.md
  
 Due June 8th
 
