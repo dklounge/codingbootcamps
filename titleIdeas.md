@@ -4,6 +4,7 @@
 3. How to Hack Hacker Academies
 4. Is Coding School Right for You?
 5. Top Programming School Rankings
+6. God, Are you Coding?
 
 #### Subtitle ####
 1. Fast-track to getting in
@@ -16,3 +17,4 @@
 4. Rock & node
 5. Winning with Node
 6. Node Champs!
+7. Gods of Node
