@@ -1,0 +1,5 @@
+#### How do you get in?
+In finding out more about how one can get in, it is reasonable to talk to two groups of people (and we hope you are doing everything you can to reach out to these two sets of people). They are:
+
+* People who got in (thankfully, this guide includes profiles of many such people!)
+* People who review the application and do the interviews (thankfully, we know these people, too!)
