@@ -2,11 +2,21 @@
 
 ### azat_co ###
 
+# About the Author
+
 !['Azat profile'](http://m3.licdn.com/mpr/pub/image-5LJLe3TfTPwgq1rB11uZvTh9nU1n2QzRej5Ok3aRnNRn2lLv5LJOZf6fn2mD29tdsSIW/azat-mardanov.jpg "Azat")
+
+Azat Mardanov has over 12 years of experience in web, mobile and software development. With a Bachelor’s Degree in Informatics and a Master of Science in Information Systems Technology degree, Azat possesses deep academic knowledge as well as extensive practical experience. 
+
+Recently, Azat has worked as a CTO/co-founder at [Gizmo](http://www.crunchbase.com/company/gizmo) — an enterprise cloud platform for mobile marketing campaigns, and has undertaken the prestigious [500 Startups](http://500.co/) business accelerator program. Previously, he was developing mission-critical applications for government agencies in Washington, DC: National Institutes of Health, National Center for Biotechnology Information, Federal Deposit Insurance Corporation, and Lockheed Martin. Azat is a frequent attendee at Bay Area tech meet-ups and hackathons ([AngelHack](http://angelhack.com) hackathon ’12 finalist with team [FashionMetric.com](http://fashionmetric.com)). 
+
+Currently, he works as an engineer at the curated social media news aggregator website, [Storify.com](http://storify.com). He mentors entrepreneurs as a hacker in residence at startup accelerator and fund [StartupMonthly](http://startupmonthly.org), where he is teaching technical [Rapid Prototyping with JavaScript and Node.js](http://www.startupmonthly.org/rapid-prototyping-with-javascript-and-nodejs.html) training to much acclaim. In his spare time, Azat writes about technology on his blog: [webAppLog.com](http://webapplog.com).
+
+
+
 
 Azat Mardanov teaches at Hack Reactor, a premier JavaScript software engineer training school in San Francisco. Azat is an experienced developer-educator who also mentors developers through General Assembly and as an instructor for Marakana. 
 
-Azat is an entrepreneur and web & mobile developer who practices yoga, and is a paleo enthusiast. Azat enjoys writing books, and recently published Rapid Prototyping with JS.  His extensive accomplishments include undertaking 500 Startups program and advising as a hacker in residence at StartupMonthly. Azat also works as an engineer at the curated social media news aggregator, Storify.com.
 
 
 ### dklounge ###
