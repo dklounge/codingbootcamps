@@ -1,9 +1,10 @@
 ### Title ideas for book ###
 1. Programmings School 101
-2. Insider's Guide to Programming Schools
+2a. Guide to Top Programming Schools: An Insider Look
+2b. Guide to Top Programming Bootcamps: An Insider Look
 3. How to Hack Hacker Academies
 4. Is Coding School Right for You?
-5. Top Programming School Rankings
+5. Top Programming Schools: Insider's Guide
 6. God, Are you Coding?
 7. Programming School Cheat Sheet
 8. Preview of Programming Schools
