@@ -1,18 +1,8 @@
 ### Title ideas for book ###
-1. Programmings School 101
-2a. Guide to Top Programming Schools: An Insider Look
-2b. Guide to Top Programming Bootcamps: An Insider Look
-3. How to Hack Hacker Academies
-4. Is Coding School Right for You?
-5. Top Programming Schools: Insider's Guide
-6. God, Are you Coding?
-7. Programming School Cheat Sheet
-8. Preview of Programming Schools
-
+Choosing a Programming Intensive Course
 
 #### Subtitle ####
-1. Fast-track to getting in
-2. Tool for decision making
+Guide to getting a high-paying and enjoyable career in web development
 
 ### Node class title ideas ###
 1. Core node.js
