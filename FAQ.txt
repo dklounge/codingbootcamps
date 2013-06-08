@@ -15,10 +15,17 @@ FAQ
 > If you graduate from a training program, earn their stamp of approval, and aren't inundated with job offers you should demand your money back.
 
 2. How much will I make in my job as web developer or software engineer?
+>
+> This varies first and foremost by the skills of the individual developer or engineer. Other key factors include geography, type of role (e.g. front-end vs. back-end), hiring company, and various other attributes of the market and the job.
+> 
+> As a reference point, in San Francisco, USA, a well-known recruiting firm publishes salary information based on survey of engineers whom it represents. See for example, [Riviera Partners 2012 Engineering Salaries](http://rivierapartners.com/2013/02/12/2012-engineering-salaries-in-review/)
 
 
 3. Wait. Is there a difference between a web developer and software engineer?  What is the difference?
-
+>
+> For the purposes of a new entrants to the job market, the primary distinction is the a software engineer refers to someone more versed in the aspects of computer science fundamental concepts. For example, while web developers can write lines of code and build a web product, software engineers generally can articulate why certain things are built in a certain way.
+> 
+> As far as programming courses go, ask the school whether you will learn and practice the fundamentals of database schema, algorithms, and data structure.
 
 4. Why are some Programming Bootcamps free?
 
@@ -31,3 +38,11 @@ FAQ
 * Hacker School (New York City)
 >
 > Hacker School is free as in beer. This is possible because startups pay us to recruit. If after Hacker School you want a job, we will help you however we can. If you don't want one, or you'd prefer to search on your own, that's fine too.
+
+5. Why is tuition so expensive?
+
+
+6. I don't have cash to pay the full amount up front. What do I do?
+
+
+7. 
