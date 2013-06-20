@@ -4,6 +4,8 @@
 
 ### By David Kim and Azat Mardanov
 
+"Sell the customers what they want, but give them what they NEED"
+
 ## TODO
 
 - [x] Outline
