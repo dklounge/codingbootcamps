@@ -1,0 +1,5 @@
+# Acknowledgment
+
+Our thanks to our mentors and friends!
+
+Thanks also to all of the hard-working instructors and students learning and promoting programming education in the world today.
