@@ -4,7 +4,7 @@
 
 # About the Author
 
-!['Azat profile'](images/azat-mardanov.jpg "Azat")
+![Azat Mardanov](images/azat-mardanov.jpg "Azat")
 
 Azat Mardanov has over 12 years of experience in web, mobile and software development. With a Bachelor’s Degree in Informatics and a Master of Science in Information Systems Technology degree, Azat possesses deep academic knowledge as well as extensive practical experience. 
 
@@ -18,7 +18,7 @@ Azat Mardanov teaches at Hack Reactor, a premier JavaScript software engineer tr
 
 ### dklounge ###
 
-!['David profile'](david-c-kim.jpg "David")
+![David Kim](images/david-c-kim.jpg "David")
 
 David Kim is the head of business development at [Hack Reactor](http://hackreactor.com/) in San Francisco.  David interacts extensively with top-tier companies in the Bay Area, and has a keen sense of skills necessary for graduates to succeed in the market. 
 
