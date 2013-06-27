@@ -1,6 +1,7 @@
 01acknowledgment.txt
-03intro.txt
-04gettingIn.txt
+02intro.txt
+03gettingIn.txt
+04Learning.txt
 05attending.txt
 06ROI.txt
 07FAQ.txt
