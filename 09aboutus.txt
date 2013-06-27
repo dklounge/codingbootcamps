@@ -1,8 +1,4 @@
-### About the authors ###
-
-### azat_co ###
-
-# About the Author
+# About the authors
 
 ![Azat Mardanov](images/azat-mardanov.jpg "Azat")
 
@@ -14,9 +10,6 @@ Currently, he works as an engineer at the curated social media news aggregator w
 
 Azat Mardanov teaches at Hack Reactor, a premier JavaScript software engineer training school in San Francisco. Azat is an experienced developer-educator who also mentors developers through General Assembly and as an instructor for Marakana. 
 
-
-
-### dklounge ###
 
 ![David Kim](images/david-c-kim.jpg "David")
 

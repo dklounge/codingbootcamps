@@ -1,4 +1,4 @@
-### TOC ###
+# TOC - not for leanpub
 
 ### 0. Preface ###
 __*How can I make the right choice?*__

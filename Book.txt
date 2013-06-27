@@ -1,5 +1,4 @@
 01acknowledgment.txt
-02TableOfContents.txt
 03intro.txt
 04gettingIn.txt
 05attending.txt

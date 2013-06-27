@@ -1,4 +1,4 @@
-#### Recap from blog entry 
+# Recap from blog entry 
 
 #### Traditional Professional School vs Coding School
 > Should you get an MBA or learn to code?

@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 The gulf between quitting your day job and enrolling full-time in a programming school is a large one. And for full-time immersion programs, you will have to quit. For example, the students at Hack Reactor kick the morning off at 9AM, and do not end the day until 8PM. 6 days a week. And those are only the official hours. Many stay well past 8PM. Some don't leave. Literally. They just work into the wee hours until they fall asleep, and then pick back up in the morning.
 

@@ -1,4 +1,4 @@
-FAQ
+# FAQ
 
 1. How likely am I to get a job after a programming bootcamp without a CS degree?
 
