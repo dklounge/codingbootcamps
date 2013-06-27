@@ -1,10 +1,55 @@
-# Recap from blog entry 
+# What is the ROI? 
 
-#### Traditional Professional School vs Coding School
+## MBA vs. Coding School
 > Should you get an MBA or learn to code?
 
+## A data-driven approach to career choice
 
-#### Stepping back
-> It is about knowing what you want in life.
-> How does agile tech team approach that problem?
-> Take tests and put yourself in the environment.  To some extent, even coding schools are like this, but you could break it down into even smaller pieces.
+> What is ROI?  It stands for return on investment; it is a marketing terminology.  
+
+Plain and simple in language that both prospective engineers and business students can understand.  We will keep things as apples-to-apples as possible by using annual salary and normalizing class time period - 2 years for MBA.  We do gross (before-tax) salary and expenses.  Basically, cash in and cash out.  We will leave the discussion about the intangible things like network or personal growth, etc.  It's definitely a separate debate.
+
+Get an MBA?
+Let's take a premier Business Schools - Harvard Business School (HBS)
+
+Investment -
+Per HBS cost summary page.
+yr 1 - Fully loaded cost - $87k/year for single person
+yr 2 - Repeat at $87k/yr =&gt; let's round down to $170k for two years
+
+Return -
+Salary depends on the industry/company, but let's take highest median, which is private equity/LBO per HBS Employment Report.
+Summer internship salary for LBO/private equity (assume 3 months) - $24k
+Yr 3 - median LBO/private equity salary year 1 - $150k
+Yr 4 - let's assume 10% bump with good performance in year 2 - $165k
+
+So, here you are, 4 years after you first attended business school.
+ROI = $339k / $170k = 1.994 or basically 200%
+
+Go to a coding school?
+There's not a strong or widely publicized salary data around this yet (so this is slightly an orange), and so I use a well-recognized [industry report from Riviera Partners](http://rivierapartners.com/2013/02/12/2012-engineering-salaries-in-review/) - a San Francisco based placement firm for tech talent.  I can corroborate these figures based on indeed.com postings and also local tech group mailing lists where salary figures are thrown around ... so it's reasonable.
+
+Investment -
+This varies by program from around $10k to $20k, but let's use an approximate mid-point at $15k for the program duration, which is generally about 3 months.  You can read more about the schools and coding in a prior post - Soon your taxi driver may know more Ruby than you do.
+yr 0.25 - $15k
+rest of year 1 - 0, you're making money
+rest of year 2 - 0, you're making money
+
+Return -
+Salary figures, as noted are from Riviera Partners 2012 engineering salary review. Let's use JavaScript.
+yr 0.75 - junior dev: $83k * 0.75 = $62k
+yr 2 - $91k (after 10% raise)
+yr 3 - $100k (after 10% raise)
+(junior dev is 0 - 3 according to this report, so afterward you're a midlevel*)
+yr 4 - $132k ($120k in 2012 reasonably adjusted for inflation - but likely higher)
+* The reality is, many graduates from the 3-month program are hired directly out as non-junior devs and after 3 years, may work as senior developer.
+
+So, here you are, 4 years after you write your first lines of code at a school.
+ROI = $385k / $15k = 25.66 or basically zomfg%
+
+Conclusion
+So which would you rather have?  200% or zomfg%?
+Isn't this damning for the traditional education?  Somewhat looks like a rip-off to the consumer.
+Also, if you are a consumer, it's got to be a no-brainer from a financial perspective (of course, don't do it for the money, do it for interest/passion, etc, etc, but I mean, who has a passion for MBA? That was for money, too, right?  Apples to apples.)
+Traditional schools/companies - please wake up and smell the competition
+Truth is life and career is far more than simply about the money.  It is doing things you love doing, and about working with people you enjoy working with.  Even on this note, I would assert that tech is just as compelling, if not more so.  By all means, be well informed about the big decisions in your life.  Coding schools are still not widely known, and I think it's worth considering for many.
