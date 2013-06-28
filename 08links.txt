@@ -1,4 +1,12 @@
 # Useful links
 
-* <choosingprogrammingcourse.com>
-* <leanpub.com/choosingprogrammingcourse>
+## Information Resources
+
+* [Choosing a Programming Intensive Course on Leanpub](http://leanpub.com/choosingprogrammingcourse)
+* [Compare Programming Schools via Bootcamps.in](http://bootcamps.in)
+* [Follow Programming Bootcamps topic on Quora](http://www.quora.com/Programming-Bootcamps)
+
+## Learning Resources
+
+* [Learn to Code through Code School](http://codeschool.com)
+* [RailsApps Tutorials](http://railsapps.org)

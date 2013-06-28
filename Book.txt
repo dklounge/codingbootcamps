@@ -1,4 +1,4 @@
-01acknowledgment.txt
+01acknowledgement.txt
 02intro.txt
 03gettingIn.txt
 04Learning.txt
@@ -8,3 +8,4 @@
 08links.txt
 09aboutus.txt
 10AppendixChecklist.txt
+11AppendixRankings.txt
