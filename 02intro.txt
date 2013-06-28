@@ -1,15 +1,18 @@
+{frontmatter}
+
 # Introduction
 
-The gulf between quitting your day job and enrolling full-time in a programming school is a large one. And for full-time immersion programs, you will have to quit. For example, the students at Hack Reactor kick the morning off at 9AM, and do not end the day until 8PM. 6 days a week. And those are only the official hours. Many stay well past 8PM. Some don't leave. Literally. They just work into the wee hours until they fall asleep, and then pick back up in the morning.
+## A Toolkit for Your Decision
 
-That's potentially a big change from your current 9-5. It's a big decision.
+This brief guide is a tool to help inform your decision about whether to attend an intense full-time programming school.
 
-You are reading this guide, because you want to be better informed. After all, you do not want to spend next three months of your life and upward of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be unsure about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming schools, and have seen applicants from across a broad spectrum. And we want to help inform you so that you can make a good decision.
+The gulf between quitting your day job and enrolling in a full-time programming school is a large one. And for the more intense programs, it could mean a drastic life change - moving to a new City, working long hours learning late into night, and plunging into a new career path. For some of you, the change would be a night-and-day from the current 9-to-5. It's a big decision, alright.
 
-Let us say that one more time. Only you can decide what you want out of life. Our role is simply to inform you. To that end, our goals in this guide are as follows:
+You are reading this guide, because you want to be better informed.  You do not want to spend next several months of your life and upwards of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be uncetain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming schools and to the wider high-tech scene.  We have seen applicants across various career stages and learning process. And we want to help inform you so that you can make a good decision.
 
-1. Provide general overview of Programming Schools to set context
+Don't misunderstand the purpose of this guide. Only you can decide what you want out of life! Our role is simply to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
+
+1. Provide general overview of Programming Schools and their context
 2. Identify and aggregate pertinent information to save you time
 3. Share profiles of alumni to better inform you about the outcomes
-4. Objectively rank the top US programs so that you are better informed
-
+4. Gather and rank objective data from US-based Programming Schools
