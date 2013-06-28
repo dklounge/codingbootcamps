@@ -1,4 +1,4 @@
-# FAQ
+# Frequently Asked Questions
 
 1. How likely am I to get a job after a programming bootcamp without a CS degree?
 
@@ -52,3 +52,7 @@
 >
 > This is a very personal decision and comes with knowing who you are and what you want in life. That said, many who decide to enroll in full-time immersion programs take a long-term view. If you are currently a successful professional, it may seem that the opportunity cost of money and time are high.  However, it is important to think about the new skills you will acquire and the dividends those skills can pay in the longer run.  Again, it is paramount that you give some thought to how you will use those skills.  For many, the ability to craft good code and build good working products is a great first step toward touching the lives of people through the web and learning to craft the surrounding world into a better place.
 >
+
+9. Do schools offer career assistance?
+
+

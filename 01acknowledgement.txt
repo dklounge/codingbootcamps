@@ -1,7 +1,7 @@
-{frontmatter}
-
 # Acknowledgement
 
 Thanks to our mentors and friends!
 
 Thanks also to all of the hard-working people involved in furthering programming education in the world today.
+
+And of course, thanks to mom & dad!

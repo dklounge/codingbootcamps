@@ -1,23 +1,21 @@
 # What is the ROI? 
 
 ## MBA vs. Coding School
-> Should you get an MBA or learn to code?
+Should you get an MBA or learn to code?
 
-## A data-driven approach to career choice
-
-> What is ROI?  It stands for return on investment; it is a marketing terminology.  
+What is ROI?  It stands for return on investment; it is a marketing terminology.  
 
 Plain and simple in language that both prospective engineers and business students can understand.  We will keep things as apples-to-apples as possible by using annual salary and normalizing class time period - 2 years for MBA.  We do gross (before-tax) salary and expenses.  Basically, cash in and cash out.  We will leave the discussion about the intangible things like network or personal growth, etc.  It's definitely a separate debate.
 
 Get an MBA?
 Let's take a premier Business Schools - Harvard Business School (HBS)
 
-Investment -
+__Investment
 Per HBS cost summary page.
 yr 1 - Fully loaded cost - $87k/year for single person
 yr 2 - Repeat at $87k/yr =&gt; let's round down to $170k for two years
 
-Return -
+__Return
 Salary depends on the industry/company, but let's take highest median, which is private equity/LBO per HBS Employment Report.
 Summer internship salary for LBO/private equity (assume 3 months) - $24k
 Yr 3 - median LBO/private equity salary year 1 - $150k

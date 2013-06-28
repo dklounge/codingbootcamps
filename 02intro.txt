@@ -1,5 +1,3 @@
-{frontmatter}
-
 # Introduction
 
 ## A Toolkit for Your Decision
@@ -10,9 +8,17 @@ The gulf between quitting your day job and enrolling in a full-time programming 
 
 You are reading this guide, because you want to be better informed.  You do not want to spend next several months of your life and upwards of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be uncetain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming schools and to the wider high-tech scene.  We have seen applicants across various career stages and learning process. And we want to help inform you so that you can make a good decision.
 
-Don't misunderstand the purpose of this guide. Only you can decide what you want out of life! Our role is simply to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
+## Goals
+
+Don't misunderstand the purpose of this guide. Only you can decide what you want out of life! Our role simply (or not so simply) is to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
 
 1. Provide general overview of Programming Schools and their context
 2. Identify and aggregate pertinent information to save you time
 3. Share profiles of alumni to better inform you about the outcomes
 4. Gather and rank objective data from US-based Programming Schools
+
+## Preface
+
+And one last remark to mentally prepare you for this journey. Don't simply receive this information passively. Use it as a starting point for further studies. Begin to learn to code and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to schools to complete your own research.
+
+And if you haven't asked already, ask yourself why you want to attend a programming school. Is it simply to be a better software engineer? Or are you a career switcher? Or are you looking for an edge in your job search? These will all factor into your decisions.

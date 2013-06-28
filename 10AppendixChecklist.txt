@@ -1,6 +1,4 @@
-{backmatter}
-
-# Applications Checklist
+# Appendix: Applications Checklist
 
 ## Your journey
 
