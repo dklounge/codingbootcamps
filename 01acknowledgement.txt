@@ -1,5 +1,7 @@
 # Acknowledgement
 
+_nanos gigantum humeris insidentes_
+
 Thanks to our mentors and friends!
 
 Thanks also to all of the hard-working people involved in furthering programming education in the world today.

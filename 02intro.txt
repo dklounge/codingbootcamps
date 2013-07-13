@@ -1,5 +1,7 @@
 # Introduction
 
+_When you come to a fork in the road, take it. - Yogi Berra_
+
 ## A Toolkit for Your Decision
 
 We wrote this brief guide as a tool to help inform your decision about whether to attend an intense full-time programming school.
