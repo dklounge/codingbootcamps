@@ -5,7 +5,7 @@
 {mainmatter}
 03gettingIn.txt
 04Learning.txt
-05attending.txt
+05Profiles.txt
 06ROI.txt
 07FAQ.txt
 08links.txt
@@ -13,4 +13,4 @@
 
 {backmatter}
 10AppendixChecklist.txt
-11AppendixRankings.txt
+11AppendixPrepResources.txt

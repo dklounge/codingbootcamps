@@ -2,11 +2,11 @@
 
 ## A Toolkit for Your Decision
 
-This brief guide is a tool to help inform your decision about whether to attend an intense full-time programming school.
+We wrote this brief guide as a tool to help inform your decision about whether to attend an intense full-time programming school.
 
-The gulf between quitting your day job and enrolling in a full-time programming school is a large one. And for the more intense programs, it could mean a drastic life change - moving to a new City, working long hours learning late into night, and plunging into a new career path. For some of you, the change would be a night-and-day from the current 9-to-5. It's a big decision, alright.
+It is a big leap to quit your day job and enroll in a full-time programming school.  Should you take the plunge?  You have to interrupt your life.  It can be personally and financially expense.  And there are all sorts of other related questions on your mind: Does it make sense to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Is there anything new that I can't learn on my own?
 
-You are reading this guide, because you want to be better informed.  You do not want to spend next several months of your life and upwards of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be uncetain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming schools and to the wider high-tech scene.  We have seen applicants across various career stages and learning process. And we want to help inform you so that you can make a good decision.
+You are reading this guide, because you want to be better informed about your decision.  You do not want to spend next several months of your life and upwards of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming schools and to a career in high-tech.  We have seen applicants across various career stages and learning process. Moreover, we have pulled together other people's insights and experiences to share with you.
 
 ## Goals
 
@@ -14,11 +14,11 @@ Don't misunderstand the purpose of this guide. Only you can decide what you want
 
 1. Provide general overview of Programming Schools and their context
 2. Identify and aggregate pertinent information to save you time
-3. Share profiles of alumni to better inform you about the outcomes
-4. Gather and rank objective data from US-based Programming Schools
+3. Introduce stories of other people like you, who took the plunge
+4. Curate additional learning materials
 
 ## Preface
 
-And one last remark to mentally prepare you for this journey. Don't simply receive this information passively. Use it as a starting point for further studies. Begin to learn to code and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to schools to complete your own research.
+We are about to start on a fun journey. Don't sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independent of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to schools to complete your own research.
 
-And if you haven't asked already, ask yourself why you want to attend a programming school. Is it simply to be a better software engineer? Or are you a career switcher? Or are you looking for an edge in your job search? These will all factor into your decisions.
+And if you haven't asked already, ask yourself why you want to attend a programming school. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder and building a whiz bang app on your way to Silicon Valley fame?
