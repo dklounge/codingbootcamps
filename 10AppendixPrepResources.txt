@@ -1,6 +1,6 @@
-# Useful links
+# Appendix: Prep Resources
 
-## Information Resources
+## Links
 
 * [Choosing a Programming Intensive Course on Leanpub](http://leanpub.com/choosingprogrammingcourse)
 * [Follow Programming Bootcamps topic on Quora](http://www.quora.com/Programming-Bootcamps)

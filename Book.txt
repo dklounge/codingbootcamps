@@ -8,9 +8,8 @@
 05Profiles.txt
 06ROI.txt
 07FAQ.txt
-08links.txt
-09aboutus.txt
+08aboutus.txt
 
 {backmatter}
-10AppendixChecklist.txt
-11AppendixPrepResources.txt
+09AppendixChecklist.txt
+10AppendixPrepResources.txt
