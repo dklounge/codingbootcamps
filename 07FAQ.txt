@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-In the following section, we compile for you frequently asked questions about Programming Schools. These questions & answers are primarily curated from Quora, and annotated with additional relevant links and insights.
+In the following section, we compiled a curated list of frequently asked questions about Programming Schools. These questions & answers are primarily from Quora.  Where applicable, we annotated the topics with additional links or insights. 
 
 
 1. How likely am I to get a job after a programming bootcamp without a CS degree?

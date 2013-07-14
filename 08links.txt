@@ -3,10 +3,34 @@
 ## Information Resources
 
 * [Choosing a Programming Intensive Course on Leanpub](http://leanpub.com/choosingprogrammingcourse)
-* [Online rankings of the Top Programming School]()
 * [Follow Programming Bootcamps topic on Quora](http://www.quora.com/Programming-Bootcamps)
 
-## Learning Resources
+## Beginner Coding Tutorials
 
-* [Learn to Code through Code School](http://codeschool.com)
-* [RailsApps Tutorials](http://railsapps.org)
+* [rubymonk](http://rubymonk.com)
+* [Code School](http://codeschool.com/)
+* [RailsApps Tutorials](http://railsapps.org/)
+* [Ruby on Rails Tutorial by Michael Hartl](http://ruby.railstutorial.org/)
+* [ProjectEuler.net](http://projecteuler.net/)
+* [SQLZoo](http://sqlzoo.net/wiki/Main_Page)
+* [JumpstartLab Tutorials](http://tutorials.jumpstartlab.com/)
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/)
+
+## Video Tutorials
+
+* [Railscasts by Ryan Bates](http://railscasts.com/)
+* [The Intro to Rails Screencast I Wish I Had](http://youtu.be/cMcEgOPza8A)
+* [Udacity CS101 with David Evans](https://www.udacity.com/course/cs101)
+
+## Coding Blogs & Newsletters
+
+* [DailyJS](http://dailyjs.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [JavaScript.is (Sexy)](http://javascriptissexy.com/)
+
+## Other Holy Cool! Resources
+
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Superhero.js](http://superherojs.com/) - A collection of best stuff on JS
+* [DevDocs](http://devdocs.io/) - All-in-one API documentation

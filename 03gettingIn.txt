@@ -21,9 +21,31 @@ In finding out more about how you get in, it would be wise to talk to two groups
 
 In this section, we will focus on those who are on the admissions sides of the programming schools. We have stories from the students in another chapter.  
 
-We asked Michael Kaiser-Nyman, founder of a programming school called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted that he "can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player."
+## Chief Admissions Criteria
 
+We asked Michael Kaiser-Nyman, founder of a programming school called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
 
+> I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
+>
+
+Sean Daken, founder of [RefactorU](http://refactoru.com/) looks for people with high general intelligence + emotional intelligence + professionalism. 
+
+> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, were looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
+
+> It helps to have some prior coding experience, but not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
+>
+
+Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.com/) lists the following key attributes during the admissions process:
+
+```
+* Drive - We want to work with people that will push themselves and their peers to surprising amounts of success.
+* Warmth - The school ends up being like a family, and my cofounders and I go to crazy lengths for our students that don't make any sense from a business perspective.  Life is too short to spend time with assholes, even when they're all-stars by other metrics.
+* Effectiveness - It turns out that getting things done is a unique skillset that carries over between careers/environments.  We like effective people -- those skills apply just as well to software engineering.
+* Intellect - Raw horsepower also matters.
+* Technical Chops - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
+```
+
+Contribute additional insights through this [Quora entry about admissions critera](http://www.quora.com/Programming-Bootcamps/What-are-the-chief-admission-criteria-for-those-admitted-to-programming-schools).
 
 ## About Changing Trends
 

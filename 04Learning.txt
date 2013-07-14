@@ -2,5 +2,35 @@
 
 ## Can You Learn on Your Own?
 
+_TBD - would be good to have content here about Code Academy, local meetup resources, friends, etc_
 
-## Forming Good Habits
+## The Factory of Good Habits
+
+Recently, I’ve read two great books about habits: __The Power of Habit__ by Charles Duhigg, and __The 7 Habits of Highly Effective People__ by Stephen Covey. And it struck me: the difference between senior and junior software engineers is not only in the size of their paycheck; more importantly it’s in their habits!
+
+![Students](images/HackReactorStudents.jpg "Students Forming Habits")
+
+Let’s be honest here. Majority of the day-to-day coding problems are solved by an extensive google search. On the other hand, good habits make any engineer more efficient by:
+
+1. Preventing from making the mistakes (or mistake prone code) in the first place, e.g., patterns, TDD/BDD and language convention habits
+
+2. Helping them to come up with solutions faster, e.g., debugging and thinking habits
+
+In my humble opinion, that’s what Hack Reactor is really excellent at. It’s the factory of good habits where for 12 weeks, 6 days a week and 8–10 hours per day students get routines ingrained in them to the point of automation, until they become their second nature… until they can code in sleep.
+
+I recognize that some software engineers are solving cutting-edge (not on StackOverflow) problems. For them, it is even more important to rely on good habits to get the trivial things out of the way.
+
+## On Tinkering
+
+Another indicator during your exploration as to whether you should attend or not is to gauge the extent to which you are a tinkerer. Yes. Tinkerer.
+
+_add content regarding tinkering_
+
+## What Would a Senior Software Engineer Say?
+
+
+
+I would also say that just as there's more to being a good business type than having a lot of linkedin connections, there's more to being a good programmer than knowing a few languages and tools. We do study a lot of theory (well, some of us do) at college, and more importantly a really good programmer becomes a master craftsman like anyone else, able to really judge and build good software in the ways that really matter. This is more than what a non-programmer (or bad programmer) sees from the outside, again like any profession. I could say more in person, but again the key to understanding and appreciating what being good at the other guy's job really means, is finding some who actually is good at that job, and then respecting them enough to listen to what they say about what it really is. I'm sure the works the other direction (me learning about non-programmers), as well.
+
+I'd also say that the Paul Graham article starts with the question "what kind of person is likely to make creative destruction work?" My (somewhat techie) point of view might start more with "what are my talents and interests; what is my spirituality (seriously); how can I best help the world; is this a field where high risk / high growth, i.e. creative destruction, is appropriate; if so what skills do I need in a team and how do I acquire them; etc.". I think it's less about feeling inadequate because you don't know how to code, and more about figuring out what you were really born to do.
+
