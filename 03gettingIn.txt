@@ -19,7 +19,11 @@ In finding out more about how you get in, it would be wise to talk to two groups
 1. People who got in (we will share insights from those folks!)
 2. People who review the application and do the interviews (we will share their insights, too!)
 
-In this section, we will focus on those who are on the admissions sides of the programming schools. We have stories from the students in a later chapter.  
+In this section, we will focus on those who are on the admissions sides of the programming schools. We have stories from the students in another chapter.  
+
+We asked Michael Kaiser-Nyman, founder of a programming school called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted that he "can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player."
+
+
 
 ## About Changing Trends
 
