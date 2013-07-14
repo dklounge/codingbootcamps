@@ -1,9 +1,32 @@
 # Getting In
 
-## What this is not 
+## A Quick Exercise
 
+Write a function to compute factorial of a given number, _n_. 
 
-In finding out more about how one can get in, it is reasonable to talk to two groups of people (and we hope you are doing everything you can to reach out to these two sets of people). They are:
+A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5*4*3*2*1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?
 
-* People who got in (thankfully, this guide includes profiles of many such people!)
-* People who review the application and do the interviews (thankfully, we know these people, too!)
+Many beginning programmers write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. That would work fine to compute 5! or 10! How well does it work for 100! or 1000!?
+
+So, now what? If a recursive solution doesn't quite work, because of the computing time, how would you restructure your code?  Is there a way to compute the multiplication non-recursively from 1 to _n_? And how does that improve performance? Could you refactor your code further to take advantage of a technique called [__memoization__](http://en.wikipedia.org/wiki/Memoization)?
+
+Did you enjoy trying to figure this problem out? Would you enjoy doing so with someone else next to you? Does the process of optimizing your code and make it compute faster appeal to you?
+
+## Learning From Those Who Went Before Us
+
+In finding out more about how you get in, it would be wise to talk to two groups of people. They are:
+
+1. People who got in (we will share insights from those folks!)
+2. People who review the application and do the interviews (we will share their insights, too!)
+
+In this section, we will focus on those who are on the admissions sides of the programming schools. We have stories from the students in a later chapter.  
+
+## About Changing Trends
+
+While technology allows us to keep the content current relatively easily, it is important to note that nearly nothing in life is constant. This is true of programming academies.  The curriculum constantly evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
+
+I was an early applicant to one of the San Francisco programming schools. Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to me. One might derive some guiding principles from this observation:
+
+1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (than they will be later), or you will have a chance to measure yourself sooner and update your skills accordingly.
+
+2. If your ultimate dream is not to work as a software engineer, then you may want to have a gut check, that you are not chasing a trend. What is cool or in demand today may not be cool or in demand tomorrow.

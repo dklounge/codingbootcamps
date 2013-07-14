@@ -1,58 +1,67 @@
 # Frequently Asked Questions
 
+In the following section, we compile for you frequently asked questions about Programming Schools. These questions & answers are primarily curated from Quora, and annotated with additional relevant links and insights.
+
+
 1. How likely am I to get a job after a programming bootcamp without a CS degree?
 
 * Shawn Drost, Co-founder of Hack Reactor (San Francisco)
-> 
-> Very likely.  Most students at our program don't have CS degrees, and the hiring rates that you're seeing online are an accurate representation of your odds of getting a job.
->
-> The underlying issue here is that it's very, very hard to hire good programmers, and if you're able to pick up some new skills, you'll be in great demand, regardless of your credentials.
+
+Very likely.  Most students at our program don't have CS degrees, and the hiring rates that you're seeing online are an accurate representation of your odds of getting a job.
+
+The underlying issue here is that it's very, very hard to hire good programmers, and if you're able to pick up some new skills, you'll be in great demand, regardless of your credentials.
 
 * Jeff Casimir, Principal at Jumpstart Lab
-> 
-> It's very realistic. 100% of our graduates have been hired into full-time, full-salary development positions.
->
-> If you graduate from a training program, earn their stamp of approval, and aren't inundated with job offers you should demand your money back.
+ 
+It's very realistic. 100% of our graduates have been hired into full-time, full-salary development positions.
+
+If you graduate from a training program, earn their stamp of approval, and aren't inundated with job offers you should demand your money back.
+
 
 2. How much will I make in my job as web developer or software engineer?
->
-> This varies first and foremost by the skills of the individual developer or engineer. Other key factors include geography, type of role (e.g. front-end vs. back-end), hiring company, and various other attributes of the market and the job.
-> 
-> As a reference point, in San Francisco, USA, a well-known recruiting firm publishes salary information based on survey of engineers whom it represents. See for example, [Riviera Partners 2012 Engineering Salaries](http://rivierapartners.com/2013/02/12/2012-engineering-salaries-in-review/)
+
+This varies first and foremost by the skills of the individual developer or engineer. Other key factors include geography, type of role (e.g. front-end vs. back-end), hiring company, and various other attributes of the market and the job.
+ 
+As a reference point, in San Francisco, USA, a well-known recruiting firm publishes salary information based on survey of engineers whom it represents. See for example, [Riviera Partners 2012 Engineering Salaries](http://rivierapartners.com/2013/02/12/2012-engineering-salaries-in-review/)
 
 
 3. Wait. Is there a difference between a web developer and software engineer?  What is the difference?
->
-> For the purposes of a new entrants to the job market, the primary distinction is the a software engineer refers to someone more versed in the aspects of computer science fundamental concepts. For example, while web developers can write lines of code and build a web product, software engineers generally can articulate why certain things are built in a certain way.
-> 
-> As far as programming courses go, ask the school whether you will learn and practice the fundamentals of database schema, algorithms, and data structure.
+
+For the purposes of a new entrants to the job market, the primary distinction is the a software engineer refers to someone more versed in the aspects of computer science fundamental concepts. For example, while web developers can write lines of code and build a web product, software engineers generally can articulate why certain things are built in a certain way.
+ 
+As far as programming courses go, ask the school whether you will learn and practice the fundamentals of database schema, algorithms, and data structure.
+
 
 4. Why are some Programming Bootcamps free?
 
 * Michael Kaiser-Nyman, co-founder of Epicodus (Portland, Oregon)
->
-> The only "free" program I know of is App Academy; you pay them 15% of your salary for 6 months once you get a job.
->
-> I run Epicodus, a 4-month coding school that costs $2,800. It's really important to me to keep tuition affordable, and if you can't pay up-front, we'll help you get a loan.
+
+The only "free" program I know of is App Academy; you pay them 15% of your salary for 6 months once you get a job.
+
+I run Epicodus, a 4-month coding school that costs $2,800. It's really important to me to keep tuition affordable, and if you can't pay up-front, we'll help you get a loan.
 
 * Hacker School (New York City)
->
-> Hacker School is free as in beer. This is possible because startups pay us to recruit. If after Hacker School you want a job, we will help you however we can. If you don't want one, or you'd prefer to search on your own, that's fine too.
+
+Hacker School is free as in beer. This is possible because startups pay us to recruit. If after Hacker School you want a job, we will help you however we can. If you don't want one, or you'd prefer to search on your own, that's fine too.
+
 
 5. Why is tuition so expensive?
-* Think about the time value of not having a job or the higher paying job you could have
+
+Think about the time value of not having a job or the higher paying job you could have
+
 
 6. I don't have cash to pay the full amount up front. What do I do?
-* Talk to the schools
+
+Talk to the schools
+
 
 7. Are there any alternatives to attending a full-time school?
 
 
 8. Money isn't an issue, but it is really hard to decide whether I should quit my job and take 3 months of my life to do this. Do you have any advice?
->
-> This is a very personal decision and comes with knowing who you are and what you want in life. That said, many who decide to enroll in full-time immersion programs take a long-term view. If you are currently a successful professional, it may seem that the opportunity cost of money and time are high.  However, it is important to think about the new skills you will acquire and the dividends those skills can pay in the longer run.  Again, it is paramount that you give some thought to how you will use those skills.  For many, the ability to craft good code and build good working products is a great first step toward touching the lives of people through the web and learning to craft the surrounding world into a better place.
->
+
+This is a very personal decision and comes with knowing who you are and what you want in life. That said, many who decide to enroll in full-time immersion programs take a long-term view. If you are currently a successful professional, it may seem that the opportunity cost of money and time are high.  However, it is important to think about the new skills you will acquire and the dividends those skills can pay in the longer run.  Again, it is paramount that you give some thought to how you will use those skills.  For many, the ability to craft good code and build good working products is a great first step toward touching the lives of people through the web and learning to craft the surrounding world into a better place.
+
 
 9. Do schools offer career assistance?
-
 
