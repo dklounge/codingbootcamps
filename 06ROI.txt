@@ -1,9 +1,11 @@
 # What is the ROI? 
 
-## MBA vs. Coding School
-Should you get an MBA or learn to code?
+_When it comes to return on investment, focus more on revenues and less on expenses. - David_
 
-What is ROI?  It stands for return on investment; it is a marketing terminology.  
+## MBA vs. Coding School
+Should you get an MBA or learn to code? What is the return on investment (ROI) for a programming course?
+
+First, a brief background. 
 
 Plain and simple in language that both prospective engineers and business students can understand.  We will keep things as apples-to-apples as possible by using annual salary and normalizing class time period - 2 years for MBA.  We do gross (before-tax) salary and expenses.  Basically, cash in and cash out.  We will leave the discussion about the intangible things like network or personal growth, etc.  It's definitely a separate debate.
 

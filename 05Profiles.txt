@@ -1,5 +1,7 @@
 # Profiles
 
+_Don't try to be another 'Nat.' Be you, be 'David.' - An advice from a friend_
+
 Back in February of 2013, we hosted a panel event featuring 8 alumni from San Francisco programming schools. It was organized to help a local programming community members ask questions from those who knew best.
 
 ![Panelists](images/ThePanelists.jpg "The Panelists")
