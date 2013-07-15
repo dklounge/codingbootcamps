@@ -2,23 +2,27 @@
 
 ## Can You Learn on Your Own?
 
-_TBD - would be good to have content here about Code Academy, local meetup resources, friends, etc_
+One of the biggest questions on your mind as you picked up this pamphlet might be: "Can I learn all of this on my own?" A better question, which some of you might have asked is: "What resources do I have at my disposal for learning how to code - and do substitutes exist for a formal full-time immersive programming school?"  As we touch upon in FAQ section, the short answer is YES.
+
+After all, no one can do the learning for you. In the end, 
 
 ## The Factory of Good Habits
 
-Recently, I’ve read two great books about habits: __The Power of Habit__ by Charles Duhigg, and __The 7 Habits of Highly Effective People__ by Stephen Covey. And it struck me: the difference between senior and junior software engineers is not only in the size of their paycheck; more importantly it’s in their habits!
+There are two great books about habits: __The Power of Habit__ by Charles Duhigg, and __The 7 Habits of Highly Effective People__ by Stephen Covey. And it struck me: the difference between senior and junior software engineers is not only in the size of their paycheck; more importantly it’s in their habits!
 
 ![Students](images/HackReactorStudents.jpg "Students Forming Habits")
 
 Let’s be honest here. Majority of the day-to-day coding problems are solved by an extensive google search. On the other hand, good habits make any engineer more efficient by:
 
-1. Preventing from making the mistakes (or mistake prone code) in the first place, e.g., patterns, TDD/BDD and language convention habits
+1. Coach students to prevent making common mistakes (or mistake prone code) in the first place. These might include teaching patterns, test-driven development (TDD), and language convention habits.
 
-2. Helping them to come up with solutions faster, e.g., debugging and thinking habits
+2. Helping students come up with solutions faster, e.g., debugging and thinking habits.
 
-In my humble opinion, that’s what Hack Reactor is really excellent at. It’s the factory of good habits where for 12 weeks, 6 days a week and 8–10 hours per day students get routines ingrained in them to the point of automation, until they become their second nature… until they can code in sleep.
+In our opinion, good Programming Course provides an excellent structure for helping individual students form good habits with expert guidance. There is a third element associated with the programming school learning environment: your peers.
 
-I recognize that some software engineers are solving cutting-edge (not on StackOverflow) problems. For them, it is even more important to rely on good habits to get the trivial things out of the way.
+3.  In many ways, the greatest benefit of attending a programming course will be your interaction with the other students. In a good program, you will engage each other and enlighten each other. Seemingly impossible challenges will seem bearable, even enjoyable.  This is the power, after all, of all organizations.  It is the power of leveraging each other - a sharp sword sharpening another sharp sword.
+
+We recognize that some software engineers are solving cutting-edge (not on StackOverflow) problems. For them, it is even more important to rely on good habits to get the trivial things out of the way.
 
 ## On Tinkering
 
