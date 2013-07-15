@@ -16,6 +16,17 @@
 * [JumpstartLab Tutorials](http://tutorials.jumpstartlab.com/)
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/)
+* [Peep Code Screencasts](https://peepcode.com/): subscription-based website where you could choose from lots of technologies and frameworks, e.g., RoR, JS, NodeJS. 
+* [ScreenCasts.org](http://screencasts.org/): emerging JavaScript screencast hub. 
+* [Backbone Screencasts](http://backbonescreencasts.com/): all the things BackboneJS on a pay-as-you-go basis. 
+* [NodeTuts](http://nodetuts.com/): Node.js Free screencast tutorials for NodeJS. 
+
+## Advanced JS Tutorials
+
+* [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [Step by step from jQuery to Backbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md)
+* [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
 
 ## Video Tutorials
 
@@ -28,6 +39,37 @@
 * [DailyJS](http://dailyjs.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.is (Sexy)](http://javascriptissexy.com/)
+
+## Massive Open Online Courses
+
+Here is a brief overview of free online courses:
+
+* [Udacity](http://udacity.com/): high quality free courses consisting of short videos with quizzes, homework, tests, engaging discussions among faculty and students, multiple levels of certification, job board featuring student profiles.
+* [Coursera](http://coursera.org/): same free high quality content as Udacity with broader selection of courses.
+* [edX](https://www.edx.org/): similar concept as Coursera or Udacity; edX courses involve professors from MIT, Harvard and other top-tier universities.
+* [Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php): free online videos of Stanford University classes.
+* [CodeAcademy](http://www.codecademy.com/): ability to learn JavaScript (other languages like Ruby on Rails are coming soon!) in your browser with automated tests.
+
+## Other Free Online Courses
+
+These courses like [Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) are less comprehensive than MOOCs and usually lack discussion boards, tests and certification:
+
+* [Academic Earth](http://www.academicearth.org/): free online classes and online learning tools from Ivy League universities, Massachusetts Institute of Technology, Stanford University, University of California at Berkeley and others.
+* [Open.Michigan](http://open.umich.edu/): hub for openly licensed educational content initiated by the University of Michigan.
+* [webcast.berkeley](http://webcast.berkeley.edu/): UC Berkeley’s central service for online video & audio for students and learners around the globe.
+* [Open Yale Courses](http://oyc.yale.edu/): free and open access to a selection of introductory courses taught by distinguished teachers and scholars at Yale University.
+* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm): free publication of MIT course materials that reflect almost all the undergraduate and graduate subjects taught at MIT.
+
+## Paid Online Courses
+
+These websites offer a wide variety of classes at relatively small cost:
+
+* [Udemy](http://udemy.com/): lots of discounts; courses on Lean Startup methodology.
+* [Online Marketing Institute](http://onlinemarketinginstitute.org/): all things related to online marketing; subscription-based.
+* [Khan Academy](http://khanacademy.org/): short videos primarily on high school subjects.
+* [iTunes U](http://www.apple.com/education/itunes-u/): mostly videos and textbooks from top universities like Yale.
+* [Lynda](http://www.lynda.com/): paid business and software-oriented courses with homework, labs and tests.
+
 
 ## Other Holy Cool! Resources
 
