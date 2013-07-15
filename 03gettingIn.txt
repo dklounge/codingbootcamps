@@ -25,11 +25,11 @@ In finding out more about how you get in, it would be wise to talk to two groups
 1. People who got in (we will share insights from those folks!)
 2. People who review the application and do the interviews (we will share their insights, too!)
 
-In this section, we will focus on those who are on the admissions sides of the programming schools. We have stories from the students in another chapter.  
+In this section, we will focus on those who are on the admissions sides of the programming courses. We have stories from the students in another chapter.  
 
 ## Chief Admissions Criteria
 
-We asked Michael Kaiser-Nyman, founder of a programming school called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
+We asked Michael Kaiser-Nyman, founder of a programming course called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
 
 > I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
 >
@@ -56,7 +56,7 @@ Contribute additional insights through this [Quora entry about admissions criter
 
 While technology allows us to keep the content current relatively easily, it is important to note that nearly nothing in life is constant. This is true of programming academies.  The curriculum constantly evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
 
-One of us was an early applicant to a San Francisco-based programming schools. Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to many. One might derive some guiding principles from this observation:
+One of us was an early applicant to a San Francisco-based programming course (was admitted, but decided not to attend). Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to many. One might derive some guiding principles from this observation:
 
 1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (than they will be later), or you will have a chance to measure yourself sooner and update your skills accordingly.
 
