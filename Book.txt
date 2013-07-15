@@ -13,4 +13,4 @@
 {backmatter}
 09AppendixChecklist.txt
 10AppendixPrepResources.txt
-AppendixListfCourses.txt
+AppendixListOfCourses.txt
