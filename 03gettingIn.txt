@@ -12,6 +12,12 @@ So, now what? If a recursive solution doesn't quite work, because of the computi
 
 Did you enjoy trying to figure this problem out? Would you enjoy doing so with someone else next to you? Does the process of optimizing your code and make it compute faster appeal to you?
 
+### More Exercises
+
+If you either 1) didn't have enough background to successfuly attempt writing a factorial function, or 2) enjoyed the exercise and want more, might we suggest the following resources?
+
+If former - i.e. you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com). If latter - i.e. Factorials exercise was a breeze - try your hand at some more challenging algorithms using language of your choice by browsing [Project Euler](http://projecteuler.net/) exercises.
+
 ## Learning From Those Who Went Before Us
 
 In finding out more about how you get in, it would be wise to talk to two groups of people. They are:
@@ -37,13 +43,12 @@ Sean Daken, founder of [RefactorU](http://refactoru.com/) looks for people with 
 
 Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.com/) lists the following key attributes during the admissions process:
 
-```
-* Drive - We want to work with people that will push themselves and their peers to surprising amounts of success.
+> * Drive - We want to work with people that will push themselves and their peers to surprising amounts of success.
 * Warmth - The school ends up being like a family, and my cofounders and I go to crazy lengths for our students that don't make any sense from a business perspective.  Life is too short to spend time with assholes, even when they're all-stars by other metrics.
 * Effectiveness - It turns out that getting things done is a unique skillset that carries over between careers/environments.  We like effective people -- those skills apply just as well to software engineering.
 * Intellect - Raw horsepower also matters.
 * Technical Chops - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
-```
+>
 
 Contribute additional insights through this [Quora entry about admissions critera](http://www.quora.com/Programming-Bootcamps/What-are-the-chief-admission-criteria-for-those-admitted-to-programming-schools).
 
@@ -51,7 +56,7 @@ Contribute additional insights through this [Quora entry about admissions criter
 
 While technology allows us to keep the content current relatively easily, it is important to note that nearly nothing in life is constant. This is true of programming academies.  The curriculum constantly evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
 
-I was an early applicant to one of the San Francisco programming schools. Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to me. One might derive some guiding principles from this observation:
+One of us was an early applicant to a San Francisco-based programming schools. Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to many. One might derive some guiding principles from this observation:
 
 1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (than they will be later), or you will have a chance to measure yourself sooner and update your skills accordingly.
 
