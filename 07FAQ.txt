@@ -8,16 +8,17 @@ In the following section, we have curated a list of frequently asked questions a
 
 * Shawn Drost, Co-founder of Hack Reactor (San Francisco)
 
-Very likely.  Most students at our program don't have CS degrees, and the hiring rates that you're seeing online are an accurate representation of your odds of getting a job.
-
-The underlying issue here is that it's very, very hard to hire good programmers, and if you're able to pick up some new skills, you'll be in great demand, regardless of your credentials.
+> Very likely.  Most students at our program don't have CS degrees, and the hiring rates that you're seeing online are an accurate representation of your odds of getting a job.
+>
+>The underlying issue here is that it's very, very hard to hire good programmers, and if you're able to pick up some new skills, you'll be in great demand, regardless of your credentials.
+>
 
 * Jeff Casimir, Principal at Jumpstart Lab
  
-It's very realistic. 100% of our graduates have been hired into full-time, full-salary development positions.
-
-If you graduate from a training program, earn their stamp of approval, and aren't inundated with job offers you should demand your money back.
-
+>It's very realistic. 100% of our graduates have been hired into full-time, full-salary development positions.
+>
+>If you graduate from a training program, earn their stamp of approval, and aren't inundated with job offers you should demand your money back.
+>
 
 2. How much will I make in my job as web developer or software engineer?
 
@@ -30,25 +31,26 @@ As a reference point, in San Francisco, USA, a well-known recruiting firm publis
 
 For the purposes of a new entrants to the job market, the primary distinction is the a software engineer refers to someone more versed in the aspects of computer science fundamental concepts. For example, while web developers can write lines of code and build a web product, software engineers generally can articulate why certain things are built in a certain way.
  
-As far as programming courses go, ask the school whether you will learn and practice the fundamentals of database schema, algorithms, and data structure.
+As far as programming courses go, ask the programming course whether you will learn and practice the fundamentals of database schema, algorithms, and data structure.
 
 
-4. Why are some Programming Bootcamps free?
+4. Why are some Programming Courses free?
 
 * Michael Kaiser-Nyman, co-founder of Epicodus (Portland, Oregon)
 
-The only "free" program I know of is App Academy; you pay them 15% of your salary for 6 months once you get a job.
-
-I run Epicodus, a 4-month coding school that costs $2,800. It's really important to me to keep tuition affordable, and if you can't pay up-front, we'll help you get a loan.
+> The only "free" program I know of is App Academy; you pay them 15% of your salary for 6 months once you get a job.
+>
+>I run Epicodus, a 4-month coding school that costs $2,800. It's really important to me to keep tuition affordable, and if you can't pay up-front, we'll help you get a loan.
+>
 
 * Hacker School (New York City)
 
-Hacker School is free as in beer. This is possible because startups pay us to recruit. If after Hacker School you want a job, we will help you however we can. If you don't want one, or you'd prefer to search on your own, that's fine too.
-
+> Hacker School is free as in beer. This is possible because startups pay us to recruit. If after Hacker School you want a job, we will help you however we can. If you don't want one, or you'd prefer to search on your own, that's fine too.
+>
 
 5. Why is tuition so expensive?
 
-Think about the time value of not having a job or the higher paying job you could have
+
 
 
 6. I don't have cash to pay the full amount up front. What do I do?
@@ -59,10 +61,22 @@ Talk to the schools
 7. Are there any alternatives to attending a full-time school?
 
 
-8. Money isn't an issue, but it is really hard to decide whether I should quit my job and take 3 months of my life to do this. Do you have any advice?
+8. Should quit my job (should I quit college) and take 3 months of my life to do this? Do you have any advice?
 
 This is a very personal decision and comes with knowing who you are and what you want in life. That said, many who decide to enroll in full-time immersion programs take a long-term view. If you are currently a successful professional, it may seem that the opportunity cost of money and time are high.  However, it is important to think about the new skills you will acquire and the dividends those skills can pay in the longer run.  Again, it is paramount that you give some thought to how you will use those skills.  For many, the ability to craft good code and build good working products is a great first step toward touching the lives of people through the web and learning to craft the surrounding world into a better place.
 
+The following are some advice from co-founders of well-known programming courses.
 
-9. Do schools offer career assistance?
+* Shawn Drost, co-founder of Hack Reactor
+
+>For most people, the answer is definitely "don't drop out of college", but few of those people are reading this question right now, so it's a tough question.  Here's my 2c:
+>
+>College is amazing.  It's four years to learn, party, and explore life.  During my college career, I studied abroad twice, audited ~20 classes above and beyond a full courseload (stuff like music theory or linguistics), learned to breakdance, started student organizations, etc, etc.  You'll also learn to code, and explore some crazy and cool corners of CS.  Some of my fondest memories are of my robotics labs.  The dark side is that it can feel like four mostly-idle years, because you're never called upon to do anything real and because most of your peers don't give a shit.
+>
+>The real world is amazing.  I've since been involved in all kinds of thrilling things.  Being a part of Hack Reactor is incredibly rewarding to me.  Prior to starting the school, I've contributed to nonprofits, learned to be social by teaching myself pool, picked up a predawn surf habit, etc, etc.  There are a million cool things to do in the world, and you don't have to go to college to find them.  CRUCIALLY IMPORTANT CAVEAT: if you skip college, you're not allowed to get a boring job that you hate, and you can't go home after work and watch TV -- you have to learn or build something instead.
+>
+>If you love code and you're already decent at it, you'll find programming classes INCREDIBLY FRUSTRATING.  Most of your classmates won't get it or care much about not getting it (related phenomena).  It sounds awesome to be at the top of your class, but trust me, it's not.  It's better, in general, to be the dumbest person in the room.  Right now, there's a golden age of software happening.  Move to SF and pitch in.  I did so about two years ago, and it's very, very thrilling in ways that college never was.  I get to do real work that actually affects real people.
+>
+
+* Eric Wise, founder of Software Craftsmanship Guild
 

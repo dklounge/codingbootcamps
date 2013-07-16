@@ -4,7 +4,9 @@ _Excellence is a habit. - Aristotle_
 
 ## Can You Learn on Your Own?
 
-One of the biggest questions on your mind as you picked up this pamphlet might have been: "Can I learn all of this on my own?" A better question, which some might have asked is: "What resources do I have at my disposal for learning how to code - and do substitutes exist for a formal full-time immersive programming course?"  As we touch upon in FAQ section, the short answer is YES.
+One of the biggest questions on your mind when you started reading this guide was: "Can I learn all of this on my own?" A better set of questions, which some might have asked might be: "What resources do I have at my disposal for learning how to code? Do substitutes exist for a formal full-time immersive programming course?"  
+
+As we touch upon in FAQ section, the short answer is YES. So refer to the FAQ and appendix of Prep Resources to find links to learning resources that will help you learn and grow. 
 
 What does a successful student look like?  From my interaction with many graduates of programming course around San Francisco, I have observed the following from high caliber performers.  
 
