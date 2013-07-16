@@ -4,22 +4,38 @@
 
 There is no right or wrong as you take this journey. That said, we hope you make the most informed decision possible. What are some steps you can take to remove some risks in your decision making and obtain more information and comfort?
 
-## Checklist template
+## Checklist of things to consider
 
-We suggest you invest in your own list of key factors of your decision. Nevertheless, the following baseline should be included in your list.
+We suggest you invest in your own list of key factors of your decision. Nevertheless, we share the following baseline list to get you started.
 
-1. [ ] Check the school reputation online - Quora, Reddit, Hacker News, YouTube Channels.
+You may want to directly request the some of the following information from programming course officials. 
 
-2. [ ] Ask the school officials what are the standards of admission.
+1. [ ] What are the standards of admission?
 
-3. [ ] Ask the school officials about the culture of the learning environment.
+2. [ ] Describe the culture of the learning environment?
 
-4. [ ] Ask the alumni and assess their experience, if possible (there are plenty of blogs to read). Alumni are, in many ways, the most accurate indicator of the quality and experience within the programming course.
+3. [ ] How large is the class size?
 
-5. [ ] Ask about payment options - how flexible are they?
+4. [ ] Who are my peers? With what sort of people will I be learning?
 
-6. [ ] Remember, location is very important when it comes to hiring and salary.
+5. [ ] Can you refer me to an alumni who can share his or her experience?
 
-7. [ ] Where are the alumni working, and what are companies that recruit regularly through the Programming School?
+6. [ ] What are the payment options? Can I defer a portion of the costs?
 
-8. [ ] Your own gut check - does it feel right? Does it seem to align with your next career or life direction?b
+7. [ ] What makes your programming course unique (or better or special) from others?
+
+8. [ ] Can you tell me about the employment statistics - what are the median salaries? who are the employers? what is the graduate placement rate? (Remember, geographic location is a key driver behind these questions.)
+
+9. [ ] Do you offer employment assistance in the form of coaching or networking?
+
+10. [ ] Can you share some details about the curriculum? Basically, what can I expect to learn?
+
+11. [ ] Tell me about the instructors. What is their pedigree?
+
+You will also want to dig online to assess the reputation of the programming course. Resources include Quora, Reddit, Hacker News, YouTube Channels, and alumni blogs. Finally, answer for yourself these very important questions. These are unique and personal to you. When you consider these questions, try hard not to compare yourself to others or project someone else's opinions onto yourself. Only you can be you.
+
+1. [ ] How will learning to code help me? Am I interested simply because it is cool, or because I am genuinely interested in working as a software engineer. (And do I understand that working as a software engineer possibly means staying up late into the night staring at my computer screen writing mundane unit tests or fixing someone else's crappy code that was impossible to debug and had no documentation?)
+
+2. [ ] Have I actually bothered to ask a senior software engineer at a company that I am interested in working for what they think of this development path?  Basically, what is my post-course game plan? (We agree this seems like taking things far, but it's a serious decision - are you serious about it?)
+
+3. [ ] Your own gut check. Step back. Does it feel right? If not, why not? (Again, be you. Only you can be you. Don't do it just because you saw someone else do it and they seem happy.)
