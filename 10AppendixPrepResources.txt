@@ -1,8 +1,11 @@
 # Appendix: Prep Resources
 
-## Links
+## Further reading
 
 * [Follow Programming Bootcamps topic on Quora](http://www.quora.com/Programming-Bootcamps)
+* [Quora entry: admissions critera](http://www.quora.com/Programming-Bootcamps/What-are-the-chief-admission-criteria-for-those-admitted-to-programming-schools).
+* [Quora entry: best US programming courses](http://www.quora.com/Computer-Programming/What-are-the-best-programming-bootcamps-courses-available-in-the-United-States)
+* [Quora entry: Who hires junior developers from programming courses?](http://www.quora.com/Programming-Bootcamps/Who-hires-junior-developers-from-programming-bootcamps-like-Hack-Reactor-or-Dev-Bootcamp-with-less-than-a-year-experience)
 
 ## Beginner Coding Tutorials
 
