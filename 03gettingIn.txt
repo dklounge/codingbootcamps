@@ -24,7 +24,7 @@ As you try these exercises & tutorials, rather than focusing on the content per 
 
 Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you a predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life, including the time you might spend coding at an immersion course.
 
-## Learning From Those Who Went Before Us: Admissions
+## Admissions: Learning From Those Who Went Before Us
 
 In finding out more about how you get in, it would be wise to talk to two groups of people. They are:
 
@@ -54,7 +54,7 @@ Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.
 * __Technical Chops__ - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
 >
 
-## Location, Location, Location?
+## Geography: Does It Matter?
 
 You might be wondering, does geography matter at all? Jeff Casimir, principal at Jumpstart Labs responded. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
 
@@ -74,6 +74,10 @@ You might be wondering, does geography matter at all? Jeff Casimir, principal at
 It is an interesting insight, but we actually think location matters quite a lot. Certainly, it matters from a personal point of view - you should be where you are happy. But, of course we will focus on the professional impact. Many attend programming courses with the intent of finding a job in software. Geography matters because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation potential, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
 
 Since both of us live in the San Francisco Bay Area, we are quite biased in thinking that this is one of the best places you could come to attend a full time programming course.
+
+## Class Size
+
+We won't go deeply into this topic. Hopefully, most of you gave some thought to what the learning environment will feel like. However, 
 
 ## About Changing Trends
 

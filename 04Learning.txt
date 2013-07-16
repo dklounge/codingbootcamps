@@ -6,7 +6,7 @@ _Excellence is a habit. - Aristotle_
 
 One of the biggest questions on your mind when you started reading this guide was: "Can I learn all of this on my own?" A better set of questions, which some might have asked might be: "What resources do I have at my disposal for learning how to code? Do substitutes exist for a formal full-time immersive programming course?"  
 
-As we touch upon in FAQ section, the short answer is YES. So refer to the FAQ and appendix of Prep Resources to find links to learning resources that will help you learn and grow. 
+As we touch upon in FAQ section, the short answer is YES. So refer to the FAQ and appendix of Prep Resources to find links to learning resources that will help you learn and grow. That said, it is worth while 
 
 What does a successful student look like?  From my interaction with many graduates of programming course around San Francisco, I have observed the following from high caliber performers.  
 
@@ -36,9 +36,13 @@ Another indicator during your exploration as to whether you should attend or not
 
 _add content regarding tinkering_
 
+## On Programming Language
+
+
+
 ## What Would a Senior Software Engineer Say?
 
-
+One time, I joined a running meetup and ran with a veteran 
 
 I would also say that just as there's more to being a good business type than having a lot of linkedin connections, there's more to being a good programmer than knowing a few languages and tools. We do study a lot of theory (well, some of us do) at college, and more importantly a really good programmer becomes a master craftsman like anyone else, able to really judge and build good software in the ways that really matter. This is more than what a non-programmer (or bad programmer) sees from the outside, again like any profession. I could say more in person, but again the key to understanding and appreciating what being good at the other guy's job really means, is finding some who actually is good at that job, and then respecting them enough to listen to what they say about what it really is. I'm sure the works the other direction (me learning about non-programmers), as well.
 

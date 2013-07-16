@@ -1,6 +1,6 @@
 # Appendix: Prep Resources
 
-## Further reading
+## Further Reading
 
 * [Follow Programming Bootcamps topic on Quora](http://www.quora.com/Programming-Bootcamps)
 * [Quora entry: admissions critera](http://www.quora.com/Programming-Bootcamps/What-are-the-chief-admission-criteria-for-those-admitted-to-programming-schools).
@@ -72,10 +72,12 @@ These websites offer a wide variety of classes at relatively small cost:
 * [iTunes U](http://www.apple.com/education/itunes-u/): mostly videos and textbooks from top universities like Yale.
 * [Lynda](http://www.lynda.com/): paid business and software-oriented courses with homework, labs and tests.
 
-## Other Holy Cool! Resources
+## Other Awesome Resources
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Superhero.js](http://superherojs.com/) - A collection of best stuff on JS
 * [DevDocs](http://devdocs.io/) - All-in-one API documentation
 * [stackoverflow](http://stackoverflow.com/) - Get your coding questions answered
 * [github](https://github.com/) - Brose open source projects and start reading other people's code
+
+Do you have your favorite you'd like to share? Please email us!

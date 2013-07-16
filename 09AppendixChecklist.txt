@@ -1,10 +1,10 @@
 # Appendix: Applications Checklist
 
-## Your journey
+## Your Journey
 
 There is no right or wrong as you take this journey. That said, we hope you make the most informed decision possible. What are some steps you can take to remove some risks in your decision making and obtain more information and comfort?
 
-## Checklist of things to consider
+## Checklist of Things You Should Know
 
 We suggest you invest in your own list of key factors of your decision. Nevertheless, we share the following baseline list to get you started.
 
@@ -30,12 +30,17 @@ You may want to directly request the some of the following information from prog
 
 10. [ ] Can you share some details about the curriculum? Basically, what can I expect to learn?
 
-11. [ ] Tell me about the instructors. What is their pedigree?
+11. [ ] Tell me about the instructors. What is their pedigree (companies where they worked)?
 
-You will also want to dig online to assess the reputation of the programming course. Resources include Quora, Reddit, Hacker News, YouTube Channels, and alumni blogs. Finally, answer for yourself these very important questions. These are unique and personal to you. When you consider these questions, try hard not to compare yourself to others or project someone else's opinions onto yourself. Only you can be you.
+12. [ ] What is the instructor:student ratio?
 
-1. [ ] How will learning to code help me? Am I interested simply because it is cool, or because I am genuinely interested in working as a software engineer. (And do I understand that working as a software engineer possibly means staying up late into the night staring at my computer screen writing mundane unit tests or fixing someone else's crappy code that was impossible to debug and had no documentation?)
+>You will also want to dig online to assess the reputation of the programming course. Resources include Quora, Reddit, Hacker News, YouTube Channels, and alumni blogs. Finally, answer for yourself these very important questions. These are unique and personal to you. When you consider these questions, try hard not to compare yourself to others or project someone else's opinions onto yourself. Only you can be you.
+>
 
-2. [ ] Have I actually bothered to ask a senior software engineer at a company that I am interested in working for what they think of this development path?  Basically, what is my post-course game plan? (We agree this seems like taking things far, but it's a serious decision - are you serious about it?)
+13. [ ] How will learning to code help me? Am I interested simply because it is cool, or because I am genuinely interested in working as a software engineer. (And do I understand that working as a software engineer possibly means staying up late into the night staring at my computer screen writing mundane unit tests or fixing someone else's crappy code that was impossible to debug and had no documentation?)
 
-3. [ ] Your own gut check. Step back. Does it feel right? If not, why not? (Again, be you. Only you can be you. Don't do it just because you saw someone else do it and they seem happy.)
+14. [ ] Have I actually bothered to ask a senior software engineer at a company that I am interested in working for what they think of this development path?  Basically, what is my post-course game plan? (We agree this seems like taking things far, but it's a serious decision - are you serious about it?)
+
+15. [ ] Does the curriculum align with the job skill-set that I actually want to gain? For example, if the school emphasizes a certain programming language, is that consistent with the programming language required in the job I'd like to have?
+
+16. [ ] Your own gut check. Step back. Does it feel right? If not, why not? (Again, be you. Only you can be you. Don't do it just because you saw someone else do it and they seem happy.)
