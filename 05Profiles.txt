@@ -10,9 +10,7 @@ It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and
 
 ![Audience](images/TheAudience.jpg "The Audience")
 
-## Profiles of alumni
-
-Coleman attended Hack Reactor in 2013.
+## Coleman, Hack Reactor in 2013
 
 ![Coleman](images/Coleman.jpg "Coleman")
 
@@ -41,7 +39,7 @@ Coleman attended Hack Reactor in 2013.
 
 _In future, we will update you with details about the actual curriculum components_
 
-Erik attended App Academy in 2013.
+## Erik, App Academy in 2013
 
 * What is your favorite memory from the Program?
 >Seeing the increasing complexity of things I can build.
@@ -66,7 +64,7 @@ Erik attended App Academy in 2013.
 * What programming languages did the (official) curriculum cover?
 >Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
 
-Michelle attended Hackbright in 2012.
+## Michelle, Hackbright in 2012
 
 ![Michelle](images/Michelle.jpg "Michelle")
 
