@@ -15,79 +15,99 @@ It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and
 ![Coleman](images/Coleman.jpg "Coleman")
 
 * What is your favorite memory from the Program?
+
 >The day before I had to present my personal project to the rest of the class. It was a day off, and I spent the whole day getting my project as solid as possible for the presentation. It was really exciting to be able to make tangible progress quickly. At that point, I had been learning in the intensive environment of Hack Reactor for a long time, and I had been working on that particular project for quite a while, too, so I was able to make fast progress.
 >
 
 * Tell us a story around your decision to attend.  What were your goals?
+
 >I wanted to move from working in stores to a more professional career. I wanted to get more satisfying work. I expected Hack Reactor to speed me along that path.
 >
 
 * And why did you choose your particular school?
+
 >It was longer and more intensive than the other programs, namely Dev Bootcamp. I liked its focus on the front end, too.
 >
 
 * What is #1 reason you would recommend that someone should attend your school?
+
 >You learn a lot faster than if you try to learn more independently.
 >
 
 * What were you doing before attending?
+
 >Fixing phones in a Sprint store
 >
 
 * What programming languages did the (official) curriculum cover?
+
 >Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
+>
 
 _In future, we will update you with details about the actual curriculum components_
 
 ## Erik, App Academy in 2013
 
 * What is your favorite memory from the Program?
+
 >Seeing the increasing complexity of things I can build.
 >
 
 * Tell us a story around your decision to attend.  What were your goals?
+
 >I wanted to learn how to code to get a dev job and eventually build a business.  I was learning on my own but it wasn't quite fast enough and I didn't even know if I was learning the right things.
 >
 
 * And why did you choose your particular school?
+
 >The curriculum was heavily project focused but the primary differentiator was just the ability to get me into an early cohort.
 >
 
 * What is #1 reason you would recommend that someone should attend your school?
+
 >Get an end-to-end context for becoming a web dev and work with other people along the way.
 >
 
 * What were you doing before attending?
+
 >Learning
 >
 
 * What programming languages did the (official) curriculum cover?
+
 >Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
+>
 
 ## Michelle, Hackbright in 2012
 
 ![Michelle](images/Michelle.jpg "Michelle")
 
 * What is your favorite memory from the Program?
+
 >The moment my script worked the way I wanted it to for the first time was exhilarating.
 >
 
 * Tell us a story around your decision to attend.  What were your goals?
+
 >I just wanted to be able to build stuff myself. I'd always been interested in tech, and since my original career goal wasn't working out, I felt drawn towards programming. 
 >
 
 * And why did you choose your particular school?
+
 >I chose Hackbright because it cost less (at that point), it was women-only, and they let me in.
 >
 
 * What is #1 reason you would recommend that someone should attend your school?
+
 >The community is rallying around Hackbright, so it is more than a technical education. You also get a lot of advice and help maneuvering through tech careers as a woman.
 >
 
 * What were you doing before attending?
+
 >Community Management (glorified sales for a startup)
 >
 
 * What programming languages did the (official) curriculum cover?
+
 >Ruby & Ruby on Rails, JavaScript, Python, CSS3/HTML5
 >
