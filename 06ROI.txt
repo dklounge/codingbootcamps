@@ -1,6 +1,6 @@
 # What is the ROI? 
 
-_When it comes to return on investment, focus more on revenues and less on expenses. - David_
+_And in the end, the love you take is equal to the love you make. - Beatles_
 
 ## MBA vs. Coding School
 Should you get an MBA or learn to code? What is the return on investment (ROI) for a programming course?
@@ -47,10 +47,12 @@ yr 4 - $132k ($120k in 2012 reasonably adjusted for inflation - but likely highe
 So, here you are, 4 years after you write your first lines of code at a school.
 ROI = $385k / $15k = 25.66 or basically zomfg%
 
-## Conclusion
+## Beyond ROI
 
 So which would you rather have?  200% or zomfg%?
 Isn't this damning for the traditional education?  Somewhat looks like a rip-off to the consumer.
 Also, if you are a consumer, it's got to be a no-brainer from a financial perspective (of course, don't do it for the money, do it for interest/passion, etc, etc, but I mean, who has a passion for MBA? That was for money, too, right?  Apples to apples.)
 Traditional schools/companies - please wake up and smell the competition
 Truth is life and career is far more than simply about the money.  It is doing things you love doing, and about working with people you enjoy working with.  Even on this note, I would assert that tech is just as compelling, if not more so.  By all means, be well informed about the big decisions in your life.  Coding schools are still not widely known, and I think it's worth considering for many.
+
+And in the end, all of what this is about is not money or ROI, but more about having fun in your journey of learning and growing.

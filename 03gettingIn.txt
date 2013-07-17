@@ -75,13 +75,21 @@ It is an interesting insight, but we actually think location matters quite a lot
 
 Since both of us live in the San Francisco Bay Area, we are quite biased in thinking that this is one of the best places you could come to attend a full time programming course.
 
-## Class Size
+## Class Size & Your Day In Life
 
-We won't go deeply into this topic. Hopefully, most of you gave some thought to what the learning environment will feel like. However, 
+Certainly, this is one of the attributes you should learn about the programming course.  (See our checklist as well as list of programming courses.)  We won't go deeply into this topic as it is self-explanatory. Hopefully, most of you gave some thought to what the learning environment will feel like in a group. We just want to make sure we debunk the somewhat romanticized myth of a loner programming genius.
+
+![A Ruby Rookies Meetup](images/PairProgramming.jpg "RubyRookies")
+
+The truth is, that unless your goal is to work as a solo programmer-contractor or as a solo entrepreneur, you will be working in teams. That point is probably well understood. So, it would be more interesting to talk about how you can test how programming in groups might feel to you if you've never done it before. One easy way to mingle with people and start coding is to attend a local coding meetup. The quality of this technique depends on where you live, but the point is that you are making an effort to simulate what it might be like to join a 3-month long programming course, bootcamp-style, and work day and night with your peers, discussing lines of code, listen to lectures, walk out to lunch together, come back and do more coding. Does that sound fun to you or not?  It is very important to imagine yourself in this setting. It is not to say that if the idea doesn't appeal to you, you should quit this journey. Rather, the intent here is to help you become more self-aware and to suggest a technique you can apply to simulate the experience (find a friend to pair, join a meetup group, start a study group, etc.).
+
+Building on that note, what would your day-in-life would look like at a programming school?
+
+The following is a link to day in the life from a well-known San Francisco programming course called [Dev Bootcamp: A Day in the Life](http://devbootcamp.com/2013/02/11/a-day-in-the-life-at-dev-bootcamp/).
 
 ## About Changing Trends
 
-While technology allows us to keep the content current relatively easily, it is important to note that nearly nothing in life is constant. This is true of programming academies.  The curriculum constantly evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
+Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything. The curriculum evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
 
 One of us was an early applicant to a San Francisco-based programming course (was admitted, but decided not to attend). Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to many. One might derive some guiding principles from this observation:
 
