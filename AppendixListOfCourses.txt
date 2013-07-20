@@ -1,9 +1,312 @@
 # Appendix: List of Courses
 
+Here is the list of thirteen (13!) courses/schools to research. The courses were hand-picked, and the list is supplemented with useful information such as technical focus and tuition prices. Don't postpone your bright future — apply to one of them now! 
+
 ![The list of courses](images/list-of-courses.png)
 
-<http://cl.ly/image/2M2f3v430K1m>
+Zoom to see the details or download from here: <http://cl.ly/image/2M2f3v430K1m>.
 
 `*` Refund is usually applied if a job is accepted through a school.
 
 **Note**: this list was composed in the summer of 2013 and information in it is subject to change, please check with the schools' website for a more update information.
+
+
+We've gathered the following information:
+
+* Name
+
+* Website: find the most up-to-date information and apply to the courses
+
+* Facebook: follow for recent updates and social connection
+
+* Twitter: follwo for recent updates and ask questions
+
+* Location: where do you want to spend 2-3 months and possible land a job
+
+* Length: the longer is the better but only if have enough financial and mental stamina 
+
+* Hours per week: the more the better (same as length), for out-of-town folks the more hours per week/day is advantageous because they don't have to spend as much on housing/food
+
+* Tuition Price: you get what you pay for, right?
+
+* Refund: Some schools offer refunds and they're usually applied if a job is accepted through a school.
+
+* Focus: the main tech stach to learn and master. Most courses cover the basics of web development as HTML and CSS but differ in the fundamental CS topics and back-end technologies.
+
+* Class Size: the less people is better, if the number of instructors is limited, otherwise there is a magic camaraderie with batches of 15-30. This is usually inversely related to the tuition price.
+
+
+
+
+## App Academy
+
+Website: <http://www.appacademy.io/>
+
+Location: San Francisco, CA
+
+Length: 9wk
+
+Hours per week: 70-80hr
+
+Tuition Price: 15% of future salary
+
+Refund: yes
+
+Tuition Price:  $5,000
+
+Focus: RoR
+
+Class Size: 20
+
+
+
+
+## Dev Bootcamp
+
+Website: <http://devbootcamp.com>
+
+Facebook: <http://facebook.com/devbootcamp>
+
+Twitter: <http://twitter.com/devbootcamp>
+
+Location: San Francisco, CA and Chicago, IL
+
+Length: 9wk
+
+Hours per week: 40hr
+
+Tuition Price: $12,200
+
+Refund: yes, $3,000
+
+Focus: RoR
+
+Class Size: 55
+
+
+
+
+## HackReactor
+
+Website: <http://hackreactor.com/>
+
+Location: San Francisco, CA
+
+Length: 12wk
+
+Hours per week: 70
+
+Tuition Price: $17,780
+
+Refund: no
+
+Focus: Full Stack
+
+Class Size: 20-25
+
+
+
+
+## gSchool
+
+Website: <http://www.gschool.it>
+
+Location: Denver, CO
+
+Length: 24
+
+Hours per week: 55
+
+Tuition Price: $20,000
+
+Refund: no (yes if student doesn't get a job)
+
+Focus: RoR, JS
+
+Class Size: 24
+
+
+
+
+## HackBright (women only!)
+
+Website: <http://hackbrightacademy.com/>
+
+Facebook: <https://www.facebook.com/HackbrightAcademy>
+
+Twitter: <https://twitter.com/hackbright>
+
+Location: San Francisco, CA
+
+Length: 10wk
+
+Hours per week: 40hr
+
+$7,500
+
+Refund: yes
+
+Tuition Price:  $7,500
+
+Focus: Python
+
+
+
+
+
+
+## The Flatiron School
+
+Website: <http://flatironschool.com/>
+
+Facebook: <http://www.facebook.com/FlatironSchool>
+
+Twitter: <https://twitter.com/flatironschool>
+
+Location: New York City, NY
+
+Length: 12wk
+
+Hours per week: 45hr
+
+Tuition Price: $10,000
+
+Refund: yes
+
+ $4,000
+
+Focus: RoR
+
+Class Size: 20
+
+
+
+
+## Coding Dojo
+
+Website: <http://codingdojo.co/>
+
+Facebook: <https://www.facebook.com/CodingDojodotco>
+
+Twitter: <https://twitter.com/codingdojodotco>
+
+Location: Mountain View, CA
+
+Length: 9wk
+
+Hours per week: 50-70hr
+
+Tuition Price: $8,750
+
+Refund: yes, 100%
+
+Focus: Front-End, PHP, Ruby on Rails, Database
+
+Class Size: 20-30
+
+
+
+
+## Starter League
+
+Website: <http://www.starterleague.com/>
+
+Twitter: <https://twitter.com/starterleague>
+
+Location: Chicago, IL
+
+Length: 
+
+Hours per week: 
+
+Tuition Price: $8,000
+
+Focus: RoR
+
+Class Size: 35
+
+
+## Bitmaker Labs
+
+Website: <http://bitmakerlabs.com/>
+
+Twitter: <https://twitter.com/bitmakerlabs>
+
+Location: Toronto, Canada
+
+Length: 9wk
+
+Hours per week: 40hr
+
+Tuition Price: CAN$9,000+HST
+
+Focus: RoR
+
+
+## RefactorU
+
+Website: <http://refactoru.com/>
+
+Facebook: <https://www.facebook.com/RefactorU>
+
+Twitter: <https://twitter.com/RefactorU>
+
+Location: Boulder, CO
+
+Length: 10wk
+
+Hours per week: 45hr
+
+Tuition Price: $13,500
+
+Refund: yes, 50%
+
+Focus: Full Stack, Python, Node.js
+
+Class Size: 20-30
+
+
+## DaVinci Coders
+
+Website: <http://davincicoders.com/>
+
+Facebook: <https://www.facebook.com/DaVinciCoder>
+
+Location: Louisville, CO
+
+Length: 11wk
+
+Hours per week: 30-40
+
+Tuition Price: $6,000
+
+Refund: no
+
+Focus: Ruby, RoR, Sinatra
+
+Class Size: 16
+
+
+
+## General Assembly
+
+Website: <http://generalassemb.ly/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
