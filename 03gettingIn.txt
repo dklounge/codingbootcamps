@@ -6,7 +6,7 @@ _Know thyself - Ancient Greek maxim_
 
 Write a function to compute factorial of a given number, _n_. 
 
-A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5*4*3*2*1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?
+A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?
 
 Many beginning programmers write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. That would work fine to compute 5! or 10! How well does it work for 100! or 1000!?
 

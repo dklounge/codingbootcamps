@@ -1,9 +1,9 @@
 # Acknowledgement
 
-_nanos gigantum humeris insidentes. - A Latin aphorism_
+_standing on the shoulders of giants. - A Latin aphorism_
 
 Thanks to our mentors and friends!
 
-Thanks also to all of the hard-working people involved in furthering programming education in the world today.
+Thanks also to all of the hard-working people involved in furthering technical education in the world today.
 
 And of course, thanks mom & dad!

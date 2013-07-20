@@ -4,11 +4,11 @@ _When you come to a fork in the road, take it. - Yogi Berra_
 
 ## A Toolkit for Your Decision
 
-We wrote this brief guide as a tool to help inform your decision about whether to attend an intense full-time programming course.
+We wrote this brief guide as a tool to help you decide whether to attend an intense full-time programming course.
 
-It is a big leap to quit your day job and enroll in a full-time programming course.  Should you take the plunge?  You have to interrupt your life.  It can be personally and financially expense.  And there are all sorts of other related questions on your mind: Does it make sense to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Is there anything new that I can't learn on my own?
+It is a big leap to quit your day job, and enroll in a full-time programming course.  Should you take the plunge?  You have to interrupt your life.  It can be personally and financially expense.  And there are all sorts of other related questions on your mind: Does it make sense move to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Couldn't I just leanr to program on my own?
 
-You are reading this guide, because you want to be better informed about your decision.  You do not want to spend next several months of your life and upwards of $10,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming courses and to a career in high-tech.  We have seen applicants across various career stages and learning process. Moreover, we have pulled together other people's insights and experiences to share with you.
+You are reading this guide, because you want to be better informed about your decision. You do not want to spend next several months of your life and upwards of $11,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming courses and to a career in high-tech.  We have seen applicants across various career stages and learning process. We have aggregated other people's insights and experiences to share with you.
 
 ## Goals
 
@@ -16,11 +16,11 @@ Don't misunderstand the purpose of this guide. Only you can decide what you want
 
 1. Provide general overview of Programming Courses and their context
 2. Identify and aggregate pertinent information to save you time
-3. Introduce stories of other people like you, who took the plunge
-4. Curate additional learning materials
+3. Introduce stories of other people who took the plunge
+4. Curate learning materials to help your progress
 
 ## Preface
 
-We are about to start on a fun journey. Don't sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independent of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to Courses to complete your own research.
+We are about to start on a fun journey. Don't sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to Programming Courses to complete your research.
 
-And if you haven't asked already, ask yourself why you want to attend a programming course. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder and building a whiz bang app on your way to Silicon Valley fame?
+If you haven't already asked, _ask yourself why you want to attend a programming course_. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a convenient, and guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder, and building the next famous Silicon Valley company?
