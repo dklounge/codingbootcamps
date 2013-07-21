@@ -21,6 +21,6 @@ Don't misunderstand the purpose of this guide. Only you can decide what you want
 
 ## Preface
 
-We are about to start on a fun journey. Don't sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to Programming Courses to complete your research.
+We are about to start on a fun journey. Do not sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to Programming Courses to complete your research.
 
 If you haven't already asked, _ask yourself why you want to attend a programming course_. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a convenient, and guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder, and building the next famous Silicon Valley company?

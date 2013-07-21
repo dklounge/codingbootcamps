@@ -109,5 +109,5 @@ _In future, we will update you with details about the actual curriculum componen
 
 * What programming languages did the (official) curriculum cover?
 
->Ruby & Ruby on Rails, JavaScript, Python, CSS3/HTML5
+>Python, Flask, SQLite, RegEx, JavaScript, Ruby (no Rails), HTML, CSS
 >
