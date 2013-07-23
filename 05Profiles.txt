@@ -2,9 +2,9 @@
 
 _Don't try to be another 'Nat.' Be you, be 'David.' - A friend_
 
-Back in February of 2013, we hosted a panel event featuring 8 alumni from San Francisco programming schools. It was organized to help a local programming community members ask questions from those who knew best.
+Back in February of 2013, we hosted a panel event featuring 8 alumni from four San Francisco programming courses. It was organized to help local programming community members ask questions from those who had been through the 'bootcamp' experience.
 
-![Panelists](images/ThePanelists.jpg "The Panelists")
+![The Alumni Panelists](images/ThePanelists.jpg "The Alumni Panelists")
 
 It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and while we do not repeat the questions asked during that event here, we hope that the following stories and information will help answer questions you have on your mind.
 

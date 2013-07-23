@@ -2,45 +2,68 @@
 
 _Know thyself - Ancient Greek maxim_
 
-## A Quick Exercise
+## Coding Exercises
 
-Write a function to compute factorial of a given number, _n_. 
+__Exercise 1:__ Write a function to compute factorial of a given number, _n_, denoted _n!_.
 
-A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?
+A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?  Let's try writing a pseudocode. It is what it sounds like - an outline of a code, that won't actually run.
 
-Many beginning programmers write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. That would work fine to compute 5! or 10! How well does it work for 100! or 1000!?
+```
+factorial_method(argument)
+	answer = argument x (argument - 1) x (argument - 2) x ... x 2 x 1
+	return answer
+end method
+```
 
-So, now what? If a recursive solution doesn't quite work, because of the computing time, how would you restructure your code?  Is there a way to compute the multiplication non-recursively from 1 to _n_? And how does that improve performance? Could you refactor your code further to take advantage of a technique called [__memoization__](http://en.wikipedia.org/wiki/Memoization)?
+The trick is to try to build on small successes and make them bigger. First, make sure you can save the argument into a variable and return it. Does it work? Now, build on a layer of complexity by making it compute argument x (argument - 1). Is the returned answer what you expected it to be? And so on.
+
+__Exercise 2:__ Compute 10! 
+
+Many programmers first write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. Now, use the function you wrote to compute 100!
+
+If you wrote a recursive solution to compute 5! or 10! did it work for 100! or 1000?  So, now what? 
+
+If a recursive solution doesn't quite work, because of the computing time, how would you restructure your code?  Is there a way to compute the multiplication non-recursively from 1 to _n_? And how does that improve performance? Could you refactor your code further to take advantage of a technique called [__memoization__](http://en.wikipedia.org/wiki/Memoization)?
+
+__Exercise 3:__ Take n! and find and print the sum of the digits of the answer. For example, for 5!, the answer is 120, and the sum of its digits is 1+2+0 = 3.
+
+You see how we are building on small pieces of existing knowledge. After you'd given it a good faith effort, if you would like to reference a solution (just one among many possible), then check out this repo of Ruby implementation: [Factorial Sum](https://github.com/dklounge/euler_exercises/blob/master/pr20_factorialsum.rb)
 
 Did you enjoy trying to figure this problem out? Would you enjoy doing so with someone else next to you? Does the process of optimizing your code and make it compute faster appeal to you?
 
-### New Exercise: Listen to Yourself
+## New Exercise: Listen to Yourself
 
-If you either 1) didn't have enough background to successfuly attempt writing a factorial function, or 2) enjoyed the exercise and want more, might we suggest the following resources?
+You either 1) didn't have enough background to successfuly attempt writing a factorial function and the variations thereof, or 2) enjoyed the exercise and want more.
 
-If former - i.e. you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com). If latter - i.e. Factorials exercise was a breeze - try your hand at some more challenging algorithms using language of your choice by browsing [Project Euler](http://projecteuler.net/) exercises.
+Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated; only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code. 
+
+__Path #1: More Prep Materials__
+If you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com). 
+
+__Path #2: More Programming Exercises__
+If you found the Factorials exercise too easy, try your hand at some more challenging algorithms using language of your choice by browsing [Project Euler](http://projecteuler.net/) exercises.
 
 As you try these exercises & tutorials, rather than focusing on the content per se, observe your feelings and thoughts during the learning process. How does it feel?  Does the prospect of seeing bunch of new keywords annoy you? frustrate you? scare you? or excite you?  As the volume of information and difficulty of concepts rise, how do you react? Do you see yourself taking a break and hesitate to return to the material? Or does the exposure to the basic concepts and keywords set you about searching for more detail on wikipedia or Stack Overflow?  
 
-Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you a predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life, including the time you might spend coding at an immersion course.
+Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you a predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life. Your feelings may be a window as to how much you might or might not enjoy a career in software engineering.  (There is a small catch to this logic. People tend to enjoy what they excel in. They find it easy. However, that excellence and ease only comes as a result of hard work!)
 
 ## Admissions: Learning From Those Who Went Before Us
 
 In finding out more about how you get in, it would be wise to talk to two groups of people. They are:
 
 1. People who got in (we will share insights from those folks!)
-2. People who review the application and do the interviews (we will share their insights, too!)
+2. People who review your applications and do the interviews (we will share their insights, too!)
 
-In this section, we will focus on those who are on the admissions sides of the programming courses. We have stories from the students in another chapter.  
+In this section, we will focus on those who are on the admissions sides of the programming courses. We have stories from the students in another chapter.  Our broad take on what it takes to get in is super simple: 1) you enjoy coding, and 2) you are a good human being.
 
-We asked Michael Kaiser-Nyman, founder of a programming course called Epicodus (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
+We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
 
 > I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
 >
 
-Sean Daken, founder of [RefactorU](http://refactoru.com/) looks for people with high general intelligence + emotional intelligence + professionalism. 
+Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) looks for people with high general intelligence + emotional intelligence + professionalism. 
 
-> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, were looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
+> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
 >
 > It helps to have some prior coding experience, but not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
 >
