@@ -6,7 +6,7 @@
 
 David Kim organizes [Ruby Rookies](http://twitter.com/rubyrookies) and [Product Management Fast-Track](http://www.meetup.com/productlovers/) in San Francisco.
 
-David is formerly the head of business development at [Hack Reactor](http://hackreactor.com/), and interacts extensively with top-tier companies in the Bay Area. 
+David headed the business development at [Hack Reactor](http://hackreactor.com/). David interacts extensively with top-tier companies in the Bay Area. 
 
 David is a life hacker who solves problems and creates resources by connecting people. You can follow him on Twitter: [@findinbay](http://twitter.com/@findinbay) or Github: [dklounge](http://github.com/dklounge). Ask him a question on [Quora](http://www.quora.com/David-C-Kim), or join him on a long run with [Anyone Can Run](http://www.meetup.com/Anyone-can-run-SF/) San Francisco. 
 
