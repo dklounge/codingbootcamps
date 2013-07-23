@@ -6,7 +6,7 @@ _Know thyself - Ancient Greek maxim_
 
 __Exercise 1:__ Write a function to compute factorial of a given number, _n_, denoted _n!_.
 
-A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?  Let's try writing a pseudocode. It is what it sounds like - an outline of a code, that won't actually run.
+A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?  Let's try writing a [pseudocode](https://en.wikipedia.org/wiki/Pseudocode). It is what it sounds like - an outline of a code useful for thinking out loud and communicating with your pair visually. It won't actually "run."
 
 ```
 factorial_method(argument)
