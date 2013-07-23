@@ -35,7 +35,7 @@ Did you enjoy trying to figure this problem out? Would you enjoy doing so with s
 
 You either 1) didn't have enough background to successfuly attempt writing a factorial function and the variations thereof, or 2) enjoyed the exercise and want more.
 
-Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated; only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code. 
+Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated. There is only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code. 
 
 __Path #1: More Prep Materials__
 If you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com). 
@@ -45,7 +45,7 @@ If you found the Factorials exercise too easy, try your hand at some more challe
 
 As you try these exercises & tutorials, rather than focusing on the content per se, observe your feelings and thoughts during the learning process. How does it feel?  Does the prospect of seeing bunch of new keywords annoy you? frustrate you? scare you? or excite you?  As the volume of information and difficulty of concepts rise, how do you react? Do you see yourself taking a break and hesitate to return to the material? Or does the exposure to the basic concepts and keywords set you about searching for more detail on wikipedia or Stack Overflow?  
 
-Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you a predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life. Your feelings may be a window as to how much you might or might not enjoy a career in software engineering.  (There is a small catch to this logic. People tend to enjoy what they excel in. They find it easy. However, that excellence and ease only comes as a result of hard work!)
+Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life. Your feelings may be a window as to how much you might or might not enjoy a career in software engineering.  (There is a small catch to this logic. People tend to enjoy what they excel in; it is easy and effortless. However, that excellence and ease comes as a result of hard - and often frustrating - work!)
 
 ## Admissions: Learning From Those Who Went Before Us
 
@@ -56,7 +56,7 @@ In finding out more about how you get in, it would be wise to talk to two groups
 
 In this section, we will focus on those who are on the admissions sides of the programming courses. We have stories from the students in another chapter.  Our broad take on what it takes to get in is super simple: 1) you enjoy coding, and 2) you are a good human being.
 
-We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael noted the following:
+We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael is an alumnus of [Dev Bootcamp](http://devbootcamp.com/) and an all-around great teacher. Michael noted the following:
 
 > I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
 >
@@ -65,7 +65,7 @@ Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) lo
 
 > We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
 >
-> It helps to have some prior coding experience, but not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
+> It helps to have some prior coding experience, but [it is] not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
 >
 
 Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.com/) lists the following key attributes during the admissions process:
@@ -79,7 +79,7 @@ Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.
 
 ## Geography: Does It Matter?
 
-You might be wondering, does geography matter at all? Jeff Casimir, principal at Jumpstart Labs responded. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
+You might be wondering, does geography matter at all? Jeff Casimir, principal at [JumpstartLab](http://jumpstartlab.com/) responded. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
 
 > I'm obviously biased, but will give you a quick answer anyways:
 >
@@ -94,17 +94,17 @@ You might be wondering, does geography matter at all? Jeff Casimir, principal at
 >Long story short: I don't think it matters. Pick a program that fits you and has people you like, the job part is easy.
 >
 
-It is an interesting insight, but we actually think location matters quite a lot. Certainly, it matters from a personal point of view - you should be where you are happy. But, of course we will focus on the professional impact. Many attend programming courses with the intent of finding a job in software. Geography matters because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation potential, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
+It is an interesting insight, but we actually think location matters quite a lot. Certainly, it matters from a personal point of view - you should be where you are happy. Yet, location also has a big professional impact, even in this modern age of [github](https://github.com/). Many attend programming courses with the intent of finding a job in software. Geography matters because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation potential, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
 
-Since both of us live in the San Francisco Bay Area, we are quite biased in thinking that this is one of the best places you could come to attend a full time programming course.
+We, the authors, live in the San Francisco Bay Area. Therefore, we are quite biased in thinking that this is one of the best places you could come to attend a full time programming course. Move here!
 
 ## Class Size & Your Day In Life
 
-Certainly, this is one of the attributes you should learn about the programming course.  (See our checklist as well as list of programming courses.)  We won't go deeply into this topic as it is self-explanatory. Hopefully, most of you gave some thought to what the learning environment will feel like in a group. We just want to make sure we debunk the somewhat romanticized myth of a loner programming genius.
+Certainly, this is one of the attributes you should learn about the programming course.  (See our Appendix of Courses for a starting list.)  We won't go deeply into this topic as it is self-explanatory. Hopefully, most of you gave some thought to what the learning environment will feel like in a group. We just want to make sure we debunk the somewhat romanticized myth of a loner programming genius.
 
 ![A Ruby Rookies Meetup](images/PairProgramming.jpg "RubyRookies")
 
-The truth is, that unless your goal is to work as a solo programmer-contractor or as a solo entrepreneur, you will be working in teams. That point is probably well understood. So, it would be more interesting to talk about how you can test how programming in groups might feel to you if you've never done it before. One easy way to mingle with people and start coding is to attend a local coding meetup. The quality of this technique depends on where you live, but the point is that you are making an effort to simulate what it might be like to join a 3-month long programming course, bootcamp-style, and work day and night with your peers, discussing lines of code, listen to lectures, walk out to lunch together, come back and do more coding. Does that sound fun to you or not?  It is very important to imagine yourself in this setting. It is not to say that if the idea doesn't appeal to you, you should quit this journey. Rather, the intent here is to help you become more self-aware and to suggest a technique you can apply to simulate the experience (find a friend to pair, join a meetup group, start a study group, etc.).
+The truth is, that unless your goal is to work as a solo programmer-contractor or as a solo entrepreneur, you will be working in teams. And you will have a boss - whether that boss is a manager or a customer. That point is probably well understood. So, if you've never done it before, how can you simulate programming in a group? One easy way would be to join a local coding meetup. The quality of this technique depends on where you live, but the point is that you are making an effort to simulate what it might be like to join a 3-month long programming course, bootcamp-style, and work day and night with your peers, discussing lines of code, listen to lectures, walk out to lunch together, come back and do more coding. Does that sound fun to you or not?  It is very important to imagine yourself in this setting. It is not to say that if the idea doesn't appeal to you, you should quit this journey. Rather, the intent here is to help you become more self-aware and to suggest a technique you can apply to simulate the experience (find a friend to pair, join a meetup group, start a study group, etc.).
 
 Building on that note, what would your day-in-life would look like at a programming school?
 
