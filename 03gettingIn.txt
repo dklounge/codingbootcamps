@@ -8,12 +8,13 @@ __Exercise 1:__ Write a function to compute factorial of a given number, _n_, de
 
 A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?  Let's try writing a [pseudocode](https://en.wikipedia.org/wiki/Pseudocode). It is what it sounds like - an outline of a code useful for thinking out loud and communicating with your pair visually. It won't actually "run."
 
-```
+{line-numbers=on}
+~~~~~~~~
 factorial_method(argument)
-	answer = argument x (argument - 1) x (argument - 2) x ... x 2 x 1
-	return answer
+  answer = argument x (argument - 1) x (argument - 2) x ... x 2 x 1
+  return answer
 end method
-```
+~~~~~~~~
 
 The trick is to try to build on small successes and make them bigger. First, make sure you can save the argument into a variable and return it. Does it work? Now, build on a layer of complexity by making it compute argument x (argument - 1). Is the returned answer what you expected it to be? And so on.
 
@@ -110,12 +111,14 @@ Building on that note, what would your day-in-life would look like at a programm
 
 The following is a link to day in the life from a well-known San Francisco programming course called [Dev Bootcamp: A Day in the Life](http://devbootcamp.com/2013/02/11/a-day-in-the-life-at-dev-bootcamp/).
 
+As a side note about solo programmers, they do exist. Talk to enough companies, and you'll find that there is bound to be a "mad scientist" type of roles!
+
 ## About Changing Trends
 
-Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything. The curriculum evolves, the applicant pools and admissions criteria compositions change. Even the employer needs for technical talent grows and wanes.
+Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything about them! The curriculum is evolving, the applicant talent pool and admissions criteria are rising. Even the employer needs for technical talent grows and wanes. One of us was an early applicant to a San Francisco-based programming course (was admitted, and decided not to attend). 
 
-One of us was an early applicant to a San Francisco-based programming course (was admitted, but decided not to attend). Looking at the increasing difficulty in application coding challenges, and the rising caliber of applicants to various local programs has been surprising to many. One might derive some guiding principles from this observation:
+There are some takeaways from the changing trends:
 
-1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (than they will be later), or you will have a chance to measure yourself sooner and update your skills accordingly.
+1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (compared to future), or you will have a chance to measure yourself sooner and update your skills or career expectations accordingly.
 
-2. If your ultimate dream is not to work as a software engineer, then you may want to have a gut check, that you are not chasing a trend. What is cool or in demand today may not be cool or in demand tomorrow.
+2. If your ultimate dream is not to work as a software engineer, then you may want to step back for a "gut check." Is this what you really want to do, or are you chasing a trend?  Remember, what is cool, or in demand today may not be tomorrow.
