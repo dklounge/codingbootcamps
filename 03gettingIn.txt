@@ -49,12 +49,12 @@ Take a moment to reflect. What do these reactions and feelings say about your in
 
 ## Admissions: Learning From Those Who Went Before Us
 
-In finding out more about how you get in, it would be wise to talk to two groups of people. They are:
+To learn more about getting in, talk to two groups of people:
 
 1. People who got in (we will share insights from those folks!)
 2. People who review your applications and do the interviews (we will share their insights, too!)
 
-In this section, we will focus on those who are on the admissions sides of the programming courses. We have stories from the students in another chapter.  Our broad take on what it takes to get in is super simple: 1) you enjoy coding, and 2) you are a good human being.
+In this section, let's hear from those who are on the admissions-end of the programming courses. We share stories from the alumni in another chapter.  You may see a broad theme emerge on what it takes to get in: 1) you enjoy coding, and 2) you are a good human being.
 
 We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael is an alumnus of [Dev Bootcamp](http://devbootcamp.com/) and an all-around great teacher. Michael noted the following:
 
