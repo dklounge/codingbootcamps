@@ -4,25 +4,25 @@ _When you come to a fork in the road, take it. - Yogi Berra_
 
 ## Preface
 
-We are about to start on a fun journey. Do not sit back with this information; instead, engage it actively. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and see how that feels. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to Programming Courses to complete your research.
+We are about to start on a fun journey. Do not sit back with this information; instead, actively engage it. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and explore your interests. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to people at Coding Bootcamps to further your research.
 
-If you haven't already asked, _ask yourself why you want to attend a programming course_. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a convenient, and guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder, and building the next famous Silicon Valley company?
+If you haven't already asked, _ask yourself why you want to attend a coding bootcamp_. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a convenient, and guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder, and building the next famous Silicon Valley company?
 
 ## A Toolkit for Your Decision
 
-We wrote this brief guide as a tool to help you decide whether to attend an intense full-time programming course.
+We wrote this brief guide as a tool to help you decide whether to attend an intense, full-time coding bootcamp. You may hear others describe it as a programming course or coding school.
 
-It is a big leap to quit your day job, and enroll in a full-time programming course.  Should you take the plunge?  You have to interrupt your life.  It can be personally and financially expense.  And there are all sorts of other related questions on your mind: Does it make sense move to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Couldn't I just leanr to program on my own?
+It is a big leap to quit your day job, and enroll in a full-time Coding Program. Should you take the plunge?  The decision to attend can be financially expense, and personally disruptive. And there are other related questions on your mind: Does it make sense move to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Couldn't I just leanr to program on my own?
 
-You are reading this guide, because you want to be better informed about your decision. You do not want to spend next several months of your life and upwards of $11,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming courses and to a career in high-tech.  We have seen applicants across various career stages and learning process. We have aggregated other people's insights and experiences to share with you.
+You are reading this guide, because you want to be better informed about your decision. You do not want to spend next several months of your life and upwards of $11,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why we wrote this guide. We have an insider's perspective to programming courses and to a career in high-tech.  We have seen applicants across various stages of career and learning. We have aggregated other people's insights and experiences to share with you.
 
-The guide is also a set of stories, because listening to stories of others can help use navigate through our own. And learning to tell stories will be an important component of making your decision as well as succeeding in a job search. We hope that the bits and pieces of stories and advice we pull together here will be useful to you and also save you time.
+This guide is also a set of stories, because listening to stories of others can help us navigate our own. And learning to tell stories will be an important component of making your decision as well as succeeding in a job search. We hope that the bits and pieces of stories and advice we pull together here will be useful to you and also save you time.
 
 ## Goals
 
-Don't misunderstand the purpose of this guide. Only you can decide what you want out of life! Our role simply (or not so simply) is to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
+Remember. Only you can decide what you want out of life! Our role simply is to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
 
-1. Provide general overview of Programming Courses and their context
+1. Provide general overview of Coding Bootcamps and their context
 2. Identify and aggregate pertinent information to save you time
 3. Introduce stories of other people who took the plunge
-4. Curate learning materials to help your progress
+4. Curate learning materials to help further your learning process

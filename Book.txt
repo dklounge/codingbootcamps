@@ -3,15 +3,15 @@
 02intro.txt
 
 {mainmatter}
-03gettingIn.txt
+03Admissions.txt
 04Learning.txt
 05Profiles.txt
 06ROI.txt
-07career.txt
-07FAQ.txt
-08aboutus.txt
+07Career.txt
+08FAQ.txt
+09aboutus.txt
 
 {backmatter}
-09AppendixChecklist.txt
-10AppendixPrepResources.txt
-AppendixListOfCourses.txt
+10AppendixChecklist.txt
+12AppendixListOfCourses.txt
+13AppendixPrepResources.txt
