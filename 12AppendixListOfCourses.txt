@@ -279,29 +279,6 @@ Focus: Full Stack
 Class Size: 25-30
 
 
-
-
-## Starter League
-
-Website: <http://www.starterleague.com/>
-
-Twitter: <https://twitter.com/starterleague>
-
-Location: Chicago, IL
-
-Length:
-
-Hours per week:
-
-Tuition Price: $8,000
-
-Focus: RoR
-
-Class Size: 35
-
-
-
-
 ## RefactorU
 
 Website: <http://refactoru.com/>
@@ -325,3 +302,23 @@ Focus: Full Stack, Python, Node.js
 Class Size: 20-30
 
 
+
+
+
+## Starter League
+
+Website: <http://www.starterleague.com/>
+
+Twitter: <https://twitter.com/starterleague>
+
+Location: Chicago, IL
+
+Length:
+
+Hours per week:
+
+Tuition Price: $8,000
+
+Focus: RoR
+
+Class Size: 35

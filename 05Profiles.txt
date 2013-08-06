@@ -2,13 +2,36 @@
 
 _Don't try to be another 'Nat.' Be you, be 'David.' - A friend_
 
-Back in February of 2013, we hosted a panel event featuring 8 alumni from four San Francisco programming courses. It was organized to help local programming community members ask questions from those who had been through the 'bootcamp' experience.
+## A Panel Gathering
+
+Back in February of 2013, we hosted a panel event featuring 8 alumni from four San Francisco coding schools. It was organized to help local programming community members and prospective students ask questions of those who had been through the 'bootcamp' experience.
 
 ![The Alumni Panelists](images/ThePanelists.jpg "The Alumni Panelists")
 
-It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and while we do not repeat the questions asked during that event here, we hope that the following stories and information will help answer questions you have on your mind.
+It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/).  While we do not repeat the questions raised during that event, we hope that the following stories and information will serve a similar purpose.
 
 ![Audience](images/TheAudience.jpg "The Audience")
+
+We asked the following of each alumni:
+
+* Name of the school.
+
+* What is your favorite memory from the Program?
+
+* Tell us a story around your decision to attend. What were your goals?
+
+* And why did you choose your particular school?
+
+* What were you doing before attending?
+
+* What is the #1 reason you would recommend your school to a friend?
+
+* What programming languages did the official curriculum cover?
+
+* Where do you now work and what is your role? (optional)
+
+Finally, while we asked alumni "Who should not attend?" We will summarize and paraphrase separately at the end of the profiles.
+
 
 ## Coleman, Hack Reactor in 2013
 
@@ -29,14 +52,14 @@ It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and
 >It was longer and more intensive than the other programs, namely Dev Bootcamp. I liked its focus on the front end, too.
 >
 
-* What is #1 reason you would recommend that someone should attend your school?
-
->You learn a lot faster than if you try to learn more independently.
->
-
 * What were you doing before attending?
 
 >Fixing phones in a Sprint store
+>
+
+* What is #1 reason you would recommend your school to a friend?
+
+>You learn a lot faster than if you try to learn more independently.
 >
 
 * What programming languages did the (official) curriculum cover?
@@ -44,7 +67,6 @@ It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/), and
 >Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
 >
 
-_In future, we will update you with details about the actual curriculum components_
 
 ## Erik, App Academy in 2013
 
@@ -63,20 +85,21 @@ _In future, we will update you with details about the actual curriculum componen
 >The curriculum was heavily project focused but the primary differentiator was just the ability to get me into an early cohort.
 >
 
-* What is #1 reason you would recommend that someone should attend your school?
-
->Get an end-to-end context for becoming a web dev and work with other people along the way.
->
-
 * What were you doing before attending?
 
 >Learning
+>
+
+* What is #1 reason you would recommend your school to a friend?
+
+>Get an end-to-end context for becoming a web dev and work with other people along the way.
 >
 
 * What programming languages did the (official) curriculum cover?
 
 >Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
 >
+
 
 ## Michelle, Hackbright in 2012
 
@@ -89,7 +112,7 @@ _In future, we will update you with details about the actual curriculum componen
 
 * Tell us a story around your decision to attend.  What were your goals?
 
->I just wanted to be able to build stuff myself. I'd always been interested in tech, and since my original career goal wasn't working out, I felt drawn towards programming. 
+>I just wanted to be able to build stuff myself. I'd always been interested in tech, and since my original career goal wasn't working out, I felt drawn towards programming.
 >
 
 * And why did you choose your particular school?
@@ -97,17 +120,75 @@ _In future, we will update you with details about the actual curriculum componen
 >I chose Hackbright because it cost less (at that point), it was women-only, and they let me in.
 >
 
-* What is #1 reason you would recommend that someone should attend your school?
-
->The community is rallying around Hackbright, so it is more than a technical education. You also get a lot of advice and help maneuvering through tech careers as a woman.
->
-
 * What were you doing before attending?
 
 >Community Management (glorified sales for a startup)
 >
 
+* What is #1 reason you would recommend your school to a friend?
+
+>The community is rallying around Hackbright, so it is more than a technical education. You also get a lot of advice and help maneuvering through tech careers as a woman.
+>
+
 * What programming languages did the (official) curriculum cover?
 
 >Python, Flask, SQLite, RegEx, JavaScript, Ruby (no Rails), HTML, CSS
+>
+
+
+## Simon, App Academy
+
+* What is your favorite memory from the Program?
+
+>Ned the head instructor would sometimes stick around after class to demo the entire solution to a difficult project we were building that day. These were like movie nights, plus hundreds of "a-ha" moments.
+>
+
+* Tell us a story around your decision to attend. What were your goals?
+
+>To surround myself with equally passionate people and to learn the most I could in a couple months.
+>
+
+* And why did you choose your particular school?
+
+>I was admitted to several similar programs. App Academy's deferred tuition option made more sense financially. I also liked the idea that my teachers would be so strongly incentivized to get me to the level I wanted to be at.
+>
+
+* What were you doing before attending?
+
+>I was on the Obama campaign staff in Colorado.
+>
+
+* What is the #1 reason you would recommend your school to a friend?
+
+>The other students. 50% of the learning comes from being surrounded by equally motivated and hard-working people.
+>
+
+* What programming languages did the official curriculum cover?
+
+>Ruby & Ruby on Rails, JavaScript, CSS3/HTML5, SQL
+>
+
+* Where do you now work and what is your role? (optional)
+
+>As a busines staff at App Academy, San Francisco
+>
+
+## Who should not attend?
+
+While most schools will have refined its admissions process to filter out poor matches, it is inevitable that some people will find themselves in a less than ideal position. Are you afraid of buyer's remorse? In a sense, this entire book is intended to help you avoid that pain. We went straight to the source and asked the alums who should not attend.
+
+Some pointed out how important it is to be committed - this is related to the theme of what makes a successful student we covered in a prior chapter.
+
+>I think it really comes down to commitment -- if you're not more or less certain that you want to learn web development and work as a web developer, you're going to have a shitty experience.  It's not a place to figure your shit out.
+>
+
+Others noted that it really is important to know what you want before you sign up: self-awareness and having conrete goals.
+
+>People who are just looking for a job, rather than a career and a passion.
+>
+
+And as you might expect, and as we have touched upon, you really should not make this an academic exercise. If you think coding is for you, don't wait, start coding today. Take tutorials (see our appendix of resources), talk to web developers, just start writing code.
+>First, you should not attend if you are not sure that web development is for you. You should make a few> decent-sized web apps to see how you like it. Maybe try a program that requires an intermediate amount of dedication to test your aptitude and level of interest.
+>
+>You should not attend if you have a hard cap on how much effort you are prepared to put in. If there is any level of work that you think is just ridiculous, just too much to ask, you run a high risk of not getting the most out of the program. You might find that you are not catching on as fast as others, and you might then need to work every waking hour to keep up. If you do find yourself falling behind, and you don't dedicate yourself fully to catching up, your money will be wasted. Since the course is so short, it is likely that you will never catch up.
 >

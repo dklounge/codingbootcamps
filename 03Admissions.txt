@@ -18,11 +18,11 @@ end method
 
 The trick is to try to build on small successes and make them bigger. First, make sure you can save the argument into a variable and return it. Does it work? Now, build on a layer of complexity by making it compute argument x (argument - 1). Is the returned answer what you expected it to be? And so on.
 
-__Exercise 2:__ Compute 10! 
+__Exercise 2:__ Compute 10!
 
 Many programmers first write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. Now, use the function you wrote to compute 100!
 
-If you wrote a recursive solution to compute 5! or 10! did it work for 100! or 1000?  So, now what? 
+If you wrote a recursive solution to compute 5! or 10! did it work for 100! or 1000?  So, now what?
 
 If a recursive solution doesn't quite work, because of the computing time, how would you restructure your code?  Is there a way to compute the multiplication non-recursively from 1 to _n_? And how does that improve performance? Could you refactor your code further to take advantage of a technique called [__memoization__](http://en.wikipedia.org/wiki/Memoization)?
 
@@ -36,15 +36,15 @@ Did you enjoy trying to figure this problem out? Would you enjoy doing so with s
 
 You either 1) didn't have enough background to successfuly attempt writing a factorial function and the variations thereof, or 2) enjoyed the exercise and want more.
 
-Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated. There is only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code. 
+Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated. There is only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code.
 
 __Path #1: More Prep Materials__
-If you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com). 
+If you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com).
 
 __Path #2: More Programming Exercises__
 If you found the Factorials exercise too easy, try your hand at some more challenging algorithms using language of your choice by browsing [Project Euler](http://projecteuler.net/) exercises.
 
-As you try these exercises & tutorials, rather than focusing on the content per se, observe your feelings and thoughts during the learning process. How does it feel?  Does the prospect of seeing bunch of new keywords annoy you? frustrate you? scare you? or excite you?  As the volume of information and difficulty of concepts rise, how do you react? Do you see yourself taking a break and hesitate to return to the material? Or does the exposure to the basic concepts and keywords set you about searching for more detail on wikipedia or Stack Overflow?  
+As you try these exercises & tutorials, rather than focusing on the content per se, observe your feelings and thoughts during the learning process. How does it feel?  Does the prospect of seeing bunch of new keywords annoy you? frustrate you? scare you? or excite you?  As the volume of information and difficulty of concepts rise, how do you react? Do you see yourself taking a break and hesitate to return to the material? Or does the exposure to the basic concepts and keywords set you about searching for more detail on wikipedia or Stack Overflow?
 
 Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life. Your feelings may be a window as to how much you might or might not enjoy a career in software engineering.  (There is a small catch to this logic. People tend to enjoy what they excel in; it is easy and effortless. However, that excellence and ease comes as a result of hard - and often frustrating - work!)
 
@@ -62,7 +62,7 @@ We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus]
 > I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
 >
 
-Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) looks for people with high general intelligence + emotional intelligence + professionalism. 
+Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) looks for people with high general intelligence + emotional intelligence + professionalism.
 
 > We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
 >
@@ -115,7 +115,7 @@ As a side note about solo programmers, they do exist. Talk to enough companies, 
 
 ## About Changing Trends
 
-Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything about them! The curriculum is evolving, the applicant talent pool and admissions criteria are rising. Even the employer needs for technical talent grows and wanes. One of us was an early applicant to a San Francisco-based programming course (was admitted, and decided not to attend). 
+Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything about them! The curriculum is evolving, the applicant talent pool and admissions criteria are rising. Even the employer needs for technical talent grows and wanes. One of us was an early applicant to a San Francisco-based programming course (was admitted, and decided not to attend).
 
 There are some takeaways from the changing trends:
 
