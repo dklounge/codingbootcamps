@@ -1,41 +1,39 @@
 # Appendix: List of Courses
 
-Here is the list of thirteen (13!) courses/schools to research. The courses were hand-picked, and the list is supplemented with useful information such as technical focus and tuition prices. Don't postpone your bright future — apply to one of them now! 
+The following is a list of selected full-time coding bootcamps for which we have gathered basic information. The courses were hand-picked, and the list is supplemented with useful information such as technical focus and tuition prices. Don't postpone your bright future — apply to one of them now!
 
-![The list of courses](images/list-of-courses.png)
-
-Zoom to see the details or download from here: <http://cl.ly/image/2M2f3v430K1m>.
-
-`*` Refund is usually applied if a job is accepted through a school.
-
-**Note**: this list was composed in the summer of 2013 and information in it is subject to change, please check with the schools' website for a more update information.
-
+**Note**: this list was composed in the summer of 2013 and information in it is subject to change, please check with each schools' website for current information.
 
 We've gathered the following information:
 
-* Name
+* School Name
 
-* Website: find the most up-to-date information and apply to the courses.
+* Website
 
-* Facebook: follow recent updates and social connection.
+* Twitter url
 
-* Twitter: follow recent updates and ask questions.
+* Facebook url
 
-* Location: where do you want to spend 2-3 months, and possibly land a job.
+* Length of Program
 
-* Length: trade-off between learning and necessary financial-mental stamina. 
+* Hours per Week
 
-* Hours per week: for out-of-town folks the more hours per week/day is advantageous, because they don't have to spend as much on housing/food.
+* Class Size
 
-* Tuition Price: check website for most up-to-date information.
+* Teacher-Student Ratio (_if provided_)
 
-* Refund: Some schools offer refunds.
+* School Location
 
-* Focus: the main tech stack to learn and master. Most courses cover the basics of web development (HTML and CSS) and incorporate several programming languages. However, many differ in their emphasis of fundamental computer science theory and more advanced back-end technologies.
+* Tuition
 
-* Class Size: the less people is better, if the number of instructors is limited, otherwise there is a magic camaraderie with batches of 15-30. This is usually inversely related to the tuition price.
+* Refund Policy (_if provided_)
 
-* Hiring Placement Support: does the Programming Course offer official help with job placement?
+* Hiring or Placement Support (_if any_)
+
+* Curriculum General Topics
+
+* Key Programming Languages
+
 
 
 ## App Academy
@@ -51,8 +49,6 @@ Hours per week: 70-80hr
 Tuition Price: 15% of future salary
 
 Refund: yes
-
-Tuition Price:  $5,000
 
 Focus: RoR
 
@@ -162,11 +158,11 @@ Hours per week: 40
 
 Tuition Price: $2,800 (may rise in future)
 
-Refund: 
+Refund:
 
 Focus: RoR
 
-Class Size: 
+Class Size:
 
 
 
@@ -205,15 +201,15 @@ Location: Eight cities, including New York City, San Francisco, Berlin, London, 
 
 Length: 12wk
 
-Hours per week: 
+Hours per week:
 
 Tuition Price: $11,500 in US (8,000 British Pounds)
 
-Refund: 
+Refund:
 
-Focus: 
+Focus:
 
-Class Size: 
+Class Size:
 
 
 
@@ -293,9 +289,9 @@ Twitter: <https://twitter.com/starterleague>
 
 Location: Chicago, IL
 
-Length: 
+Length:
 
-Hours per week: 
+Hours per week:
 
 Tuition Price: $8,000
 
