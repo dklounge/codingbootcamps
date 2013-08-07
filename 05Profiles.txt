@@ -238,7 +238,7 @@ Others noted that it really is important to know what you want before you sign u
 >
 
 And as you might expect, and as we have touched upon, you really should not make this an academic exercise. If you think coding is for you, don't wait, start coding today. Take tutorials (see our appendix of resources), talk to web developers, just start writing code.
->First, you should not attend if you are not sure that web development is for you. You should make a few> decent-sized web apps to see how you like it. Maybe try a program that requires an intermediate amount of dedication to test your aptitude and level of interest.
+>First, you should not attend if you are not sure that web development is for you. You should make a few decent-sized web apps to see how you like it. Maybe try a program that requires an intermediate amount of dedication to test your aptitude and level of interest.
 >
 >You should not attend if you have a hard cap on how much effort you are prepared to put in. If there is any level of work that you think is just ridiculous, just too much to ask, you run a high risk of not getting the most out of the program. You might find that you are not catching on as fast as others, and you might then need to work every waking hour to keep up. If you do find yourself falling behind, and you don't dedicate yourself fully to catching up, your money will be wasted. Since the course is so short, it is likely that you will never catch up.
 >
