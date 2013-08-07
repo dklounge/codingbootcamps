@@ -2,27 +2,32 @@
 
 _Perfect is the enemy of good - Voltaire._
 
-The majority of people shelling out money to attend a full-time programming course seek to enhance their career prospects. Yes, there is a component of genuine interest and learning, but a clear expectation is that the programming courses offer an entry into a programming career. Some companies advertise 100% post-program hire rate and six figure offers. How credible are these claims? Are such points relevant for your overall career search process?
+The majority of people shelling out money to attend a full-time coding bootcamp seeks to enhance their career prospects. Yes, there is a component of genuine interest and learning, but a clear expectation is that the programming courses offer an entry into a programming career. Some companies advertise 100% placement rate and six figure offers. How credible are these claims? Are such points relevant for your overall career search process?
 
-The following content will prompt you to think more critically about such points. It will also help you better understand what employers might be looking for, and how to better prepare yourself for interviews.  This section is broken into following topics:
+The following content will prompt you to think more critically about your job search as a software engineer. It also will help you better understand what employers are looking for, and how to better prepare yourself for interviews.  This section is broken into the following topics:
 
 * What do employers want?
 * Do job descriptions matter?
-* Interviewing tips & preparation
-* What is a typical career path?
+* How do I find an ideal team?
+* How do I position myself?
+* Interviewing tips & techniques
 
 ## What Do Employers Want?
 
-Wouldn't it be nice to know what companies want and what they are thinking?
+_We will be adding more content soon_
 
 ## Do Job Descriptions Matter?
 
 _We will be adding more content soon_
 
-## Interviewing Tips & Preparation
+## How do I find an ideal team?
 
 _We will be adding more content soon_
 
-## What is a Typical Career Path?
+## How do I position myself?
 
-_We will be adding more content soon. When an update is published, you will receive a notification through leanpub. If you have other topics you'd like addressed under this section, please don't hestitate to reach out to us._
+_We will be adding more content soon._
+
+## Interviewing tips & techniques
+
+_We will be adding more content soon._

@@ -32,8 +32,12 @@ We asked the following of each alumni:
 
 Finally, while we asked alumni "Who should not attend?" We will summarize and paraphrase separately at the end of the profiles.
 
+_Do you have an experience or perspective to share?_
 
-## Coleman, Hack Reactor in 2013
+Share your story: [http://goo.gl/wGhN4](http://goo.gl/wGhN4)
+
+
+## Coleman Foley, Hack Reactor in 2013
 
 ![Coleman](images/Coleman.jpg "Coleman")
 
@@ -68,7 +72,7 @@ Finally, while we asked alumni "Who should not attend?" We will summarize and pa
 >
 
 
-## Erik, App Academy in 2013
+## Erik, App Academy in 2013 (San Francisco)
 
 * What is your favorite memory from the Program?
 
@@ -101,7 +105,7 @@ Finally, while we asked alumni "Who should not attend?" We will summarize and pa
 >
 
 
-## Michelle, Hackbright in 2012
+## Michelle Glauser, Hackbright in 2012
 
 ![Michelle](images/Michelle.jpg "Michelle")
 
@@ -136,7 +140,7 @@ Finally, while we asked alumni "Who should not attend?" We will summarize and pa
 >
 
 
-## Simon, App Academy
+## Simon, App Academy (San Francisco)
 
 * What is your favorite memory from the Program?
 
@@ -173,6 +177,50 @@ Finally, while we asked alumni "Who should not attend?" We will summarize and pa
 >As a busines staff at App Academy, San Francisco
 >
 
+## Dave Melin, App Academy July 2013 (San Francisco)
+
+![Dave](images/DaveMelin.jpg "Dave M.")
+
+* What is your favorite memory from the Program?
+
+>Going to lunch with my fellow students and talking about the current projects and how everyone was going about their code.
+>
+
+* Tell us a story around your decision to attend. What were your goals?
+
+>I was in finance doing accounting and felt like I needed to be in a career where I could contribute to the core product, while being more creative.
+>
+
+* And why did you choose your particular school?
+
+>Only applied to one, but App Academy had great stats about their student success stories, and the tuition plan was unbeatable.
+>
+
+* What were you doing before attending?
+
+>Accounting.
+>
+
+* What is the #1 reason you would recommend your school to a friend?
+
+>The program is run by great people who genuinely want the students to be a successful and well educated developers.
+>
+
+* What programming languages did the official curriculum cover?
+
+>Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
+>
+
+* Where do you now work and what is your role? (optional)
+
+>_(At the time of this writing just graduated and in job search.)_
+>
+
+* Did you have a CS degree before attending?
+
+>No
+>
+
 ## Who should not attend?
 
 While most schools will have refined its admissions process to filter out poor matches, it is inevitable that some people will find themselves in a less than ideal position. Are you afraid of buyer's remorse? In a sense, this entire book is intended to help you avoid that pain. We went straight to the source and asked the alums who should not attend.
@@ -181,6 +229,8 @@ Some pointed out how important it is to be committed - this is related to the th
 
 >I think it really comes down to commitment -- if you're not more or less certain that you want to learn web development and work as a web developer, you're going to have a shitty experience.  It's not a place to figure your shit out.
 >
+
+This point was reiterated by others who pointed out "anyone who is not 100% invested will NOT be able to keep up."
 
 Others noted that it really is important to know what you want before you sign up: self-awareness and having conrete goals.
 

@@ -78,6 +78,18 @@ Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.
 * __Technical Chops__ - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
 >
 
+From Hacker School's blog about [What We look for in Students](https://www.hackerschool.com/blog/20-what-we-look-for-in-students), we can list the following key attributes:
+
+* You enjoy programming
+* You want to get significantly better
+* You're friendly
+* You're self-directed
+* You're intellectually curious
+* You have a demonstrated capacity for rigor
+* You're introspective
+
+Read the blog for more details.
+
 ## Geography: Does It Matter?
 
 You might be wondering, does geography matter at all? Jeff Casimir, principal at [JumpstartLab](http://jumpstartlab.com/) responded. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:

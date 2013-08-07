@@ -4,9 +4,11 @@ The following is a list of selected full-time coding bootcamps for which we have
 
 **Note**: this list was composed in the summer of 2013 and information in it is subject to change, please check with each schools' website for current information.
 
-We've gathered the following information:
+We've gathered the following information (and indicate when information is furnished by the founding team):
 
 * School Name
+
+* School Location
 
 * Website
 
@@ -16,13 +18,11 @@ We've gathered the following information:
 
 * Length of Program
 
-* Hours per Week
+* Hours - rather than indicating hours per week, we will try to capture official day hours
 
 * Class Size
 
-* Teacher-Student Ratio (_if provided_)
-
-* School Location
+* Teacher-Student Ratio (_if provided_) - please note that this is a very loose figure, partly because most programs actively engage part-time instructors and mentor networks who contribute instruction time
 
 * Tuition
 
@@ -30,56 +30,93 @@ We've gathered the following information:
 
 * Hiring or Placement Support (_if any_)
 
-* Curriculum General Topics
+* Curriculum Details - whethre it covers: algorithms, data structures (stacks, hashes, etc), development workflow (debugging, version control, etc), front-end topics (layout, CSS/HTML, etc), back-end topics (database schema, security, etc)
 
 * Key Programming Languages
 
+_Is your Program listed? Or should the information be updated?_
+
+Share your School details: [http://goo.gl/QMDYXA](http://goo.gl/QMDYXA)
+
+
 
 ## AIT Learning
+_(information directly provided by the founding team)_
+
+Location: 14801 Murdock St, Suite 155, Chantilly, VA 20151
 
 Website: <www.aitlearning.com>
 
-Twitter: [@aitlearning](http://www.twitter.com/@aitlearning)
+Twitter: <http://www.twitter.com/@aitlearning>
 
 Facebook: [AIT Learning](https://www.facebook.com/pages/AIT-Learning/375564412566888?skip_nax_wizard=true)
 
-Length of
+Length of Program: 8wk
 
-Location: Washington, DC
+Hours: 9am - 5pm
 
-Length: 8wk
+Class Size: 12-15 students
 
+Teacher-Student Ratio: 1:10
 
+Tuition: $9,500
+
+Refund Policy: Full refund during week 1
+
+Hiring Support: Access to founders' networks
+
+Curriculum Details: algorithms, data structures, development workflow front-end, back-end
+
+Key Programming Languages: Ruby & Ruby on Rails, PHP
 
 
 ## App Academy
+_(information directly provided by the founding team)_
+
+Location: San Francisco and New York City
 
 Website: <http://www.appacademy.io/>
 
-Location: San Francisco, CA
+Twitter: <https://twitter.com/appacademyio>
 
-Length: 9wk
+Facebook: <https://www.facebook.com/hashmaplabs>
 
-Hours per week: 70-80hr
+Length: 12wk (as of mid-year 2013)
 
-Tuition Price: 15% of future salary
+Hours: 9am - 6pm
 
-Refund: yes
+Class Size: 40
 
-Focus: RoR
+Teacher-Student Ratio:
 
-Class Size: 20
+Tuition: 18% of first year salary contingent upon successful job search
 
+Refund Policy: No tuition owed if unable to find job; $5,000 off tuition if placed with a partner company
+
+Hiring Support: Job search support includes everything from interview prep to algorithms/data structures lessons to company introductions.
+
+Curriculum Details: algorithms, data structures, development workflow front-end, back-end
+
+Key Programming Languages: Ruby & Ruby on Rails, JavaScript, CSS3/HTML5, SQL
+
+Other Technology:
+* jQuery
+* SQL
+* Backbone.js
+
+Students build the frameworks (e.g., Rails) that we use from the ground up, so as to develop a thorough understanding of the tools that they are using
+
+Other info: App Academy places an equal emphasis on Ruby/Rails and JavaScript/Backbone.js. That said, web development is a means to the end for the primary goal of training as a software engineer
 
 
 
 ## Bitmaker Labs
 
+Location: Toronto, Canada
+
 Website: <http://bitmakerlabs.com/>
 
 Twitter: <https://twitter.com/bitmakerlabs>
-
-Location: Toronto, Canada
 
 Length: 9wk
 
@@ -91,15 +128,16 @@ Focus: RoR
 
 
 
+
 ## Coding Dojo
+
+Location: Mountain View, CA
 
 Website: <http://codingdojo.co/>
 
 Facebook: <https://www.facebook.com/CodingDojodotco>
 
 Twitter: <https://twitter.com/codingdojodotco>
-
-Location: Mountain View, CA
 
 Length: 9wk
 
@@ -112,6 +150,7 @@ Refund: yes, 100%
 Focus: Front-End, PHP, Ruby on Rails, Database
 
 Class Size: 20-30
+
 
 
 
@@ -137,7 +176,10 @@ Class Size: 16
 
 
 
+
 ## Dev Bootcamp
+
+Location: San Francisco, Chicago (and possibly Seattle)
 
 Website: <http://devbootcamp.com>
 
@@ -145,15 +187,13 @@ Facebook: <http://facebook.com/devbootcamp>
 
 Twitter: <http://twitter.com/devbootcamp>
 
-Location: San Francisco, CA and Chicago, IL
-
 Length: 9wk
 
-Hours per week: 40hr
+Hours:
 
-Tuition Price: $12,200
+Tuition: $12,200, $500 discount available to females and veterans, $3,000 reimbursement if placed with partner company
 
-Refund: yes, $3,000
+Refund Policy:
 
 Focus: RoR
 
@@ -163,23 +203,47 @@ Class Size: 55
 
 
 ## Epicodus
-
-Website: <http://www.epicodus.com/>
+_(information directly provided by the founding team)_
 
 Location: Portland, OR (formerly Sacramento, CA)
 
-Length: four months
+Website: <http://www.epicodus.com/>
 
-Hours per week: 40
+Twitter: <https://twitter.com/epicodus>
 
-Tuition Price: $2,800 (may rise in future)
+Facebook: <https://www.facebook.com/epicodus.school>
 
-Refund:
+Length: 4 months
 
-Focus: RoR
+Hours: 9am - 6pm
 
-Class Size:
+Class Size: 24 as of August 2013 (possibly growing to 50)
 
+Teacher-Student Ratio:
+
+Tuition: $2,800, full deferment available
+
+Refund Policy: info n/a
+
+Hiring or Placement Support: 1 week of the Program is spent on resumes, homepages, polishing GitHub, and interview prep, culminating in a job fair with local employers
+
+Curriculum Details: development workflow, front-end topics, back-end topics
+
+Key Programming Languages: Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
+
+Other info: We focus on learning programming. The languages, libraries, and frameworks we use are a means to an end - learning how to think like a programmer. By the end of the course, students are well-prepared to learn whatever languages and tools come their way on the job.
+
+Here are a few things I think make Epicodus special:
+
+* Almost 100% of our classroom time is spent pair programming, so students spend as much time as possible actually coding and collaborating.
+
+* Students gradually build up their skills from simple web pages, to using Javascript for interactivity, to writing pure Ruby apps, to finally building full-stack web apps. They develop a solid understanding of each layer before they move to the next.
+
+* There's a heavy emphasis on learning how to think like a programmer by using object-oriented design and test-driven development, and by learning in two languages, Javascript and Ruby.
+
+* Students finish the class by building real-world applications for actual clients.
+
+* Students of all skill levels and backgrounds are welcome.
 
 
 
@@ -251,7 +315,9 @@ Class Size: 24
 
 
 
-## HackBright (women only!)
+## Hackbright Academy (women-only Program)
+
+Location: 683 Sutter St. Ste. 201, San Francisco, CA
 
 Website: <http://hackbrightacademy.com/>
 
@@ -259,40 +325,116 @@ Facebook: <https://www.facebook.com/HackbrightAcademy>
 
 Twitter: <https://twitter.com/hackbright>
 
-Location: San Francisco, CA
-
 Length: 10wk
 
-Hours per week: 40hr
+Hours: 10am - 6pm
 
-$7,500
+Class Size:
 
-Refund: yes
+Teacher-Student Ratio:
 
-Tuition Price:  $7,500
+Tuition: $12,000
 
-Focus: Python
+Refund Policy:
+
+Hiring of Placement Support: prospective employer hiring day event (aka "Career Day")
+
+Curriculum Details: development workflow, front-end, back-end
+
+Key Programming Languages: Python, CSS/HTML, SQL
 
 
 
 
 ## Hack Reactor
 
+Location: San Francisco, CA
+
 Website: <http://hackreactor.com/>
 
-Location: San Francisco, CA
+Twitter: <https://twitter.com/hackreactor>
+
+Facebook: <https://www.facebook.com/pages/Hack-Reactor/134464886714521>
 
 Length: 12wk
 
-Hours per week: 70
-
-Tuition Price: $17,780
-
-Refund: no
-
-Focus: Full Stack
+Hours: 9am - 6:30pm (with student programs until 8pm), 6 days a week
 
 Class Size: 25-30
+
+Teacher-Student Ratio:
+
+Tuition: $17,780
+
+Refund Policy: Full refund during week 1
+
+Hiring or Placement Support: prospective employer hiring day event
+
+Curriculum Details: algorithms, data structures, development workflow, front-end topics, back-end topics
+
+Key Programming Languages: Ruby on Rails, JavaScript, CSS3/HTML5, SQL
+
+
+
+## Hacker School
+
+Location: New York, NY
+
+Website: <https://www.hackerschool.com/>
+
+Twitter: <https://twitter.com/hackerschool>
+
+Facebook:
+
+Length: 3-months
+
+Hours: M-Th, 10:30am - 6:30pm
+
+Class Size: 45-70 students, typically 35-45% women
+
+Teacher-Student Ratio:
+
+Tuition: Free (all revenues are generated from job placement fees), limited number of $5,000 need-based grant to women available
+
+Refund Policy: Program is free
+
+Hiring or Placement Support:
+
+Curriculum Details:
+
+Key Programming Languages:
+
+
+
+
+## MakerSquare
+
+Location: 716 Congress Ave, Austin, TX 78701
+
+Website: <http://themakersquare.com/>
+
+Twitter: <https://twitter.com/MakerSquare>
+
+Facebook: <https://www.facebook.com/makersquare>
+
+Length:
+
+Hours:
+
+Class Size:
+
+Teacher-Student Ratio:
+
+Tuition: $9,000 (promotional rate during inaugural period in September and November 2013), $2,000 scholarship to women (contingent on Skype volunteering into elementary, middle, and high-school classrooms around the country to inspire the next generation of women in tech)
+
+Refund Policy:
+
+Hiring or Placement Support:
+
+Curriculum Details: development workflow, front-end, back-end
+
+Key Programming Languages: Ruby on Rails, JavaScript, CSS3/HTML5
+
 
 
 ## RefactorU
@@ -320,21 +462,30 @@ Class Size: 20-30
 
 
 
+## Starter League (Web Development)
 
-## Starter League
+Location: Chicago, IL
 
 Website: <http://www.starterleague.com/>
 
 Twitter: <https://twitter.com/starterleague>
 
-Location: Chicago, IL
+Facebook:
 
-Length:
+Length: 11wk
 
-Hours per week:
-
-Tuition Price: $8,000
-
-Focus: RoR
+Hours: 20-40 hours per week
 
 Class Size: 35
+
+Teacher-Student Ratio:
+
+Tuition: $8,000
+
+Refund Policy:
+
+Hiring or Placement Support:
+
+Curriculum Details: development workflow, front-end, back-end
+
+Key Programming Languages: Ruby on Rails, JavaScript
