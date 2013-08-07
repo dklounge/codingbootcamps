@@ -3,6 +3,6 @@
 02intro.txt
 
 {mainmatter}
-03gettingIn.txt
+03Admissions.txt
 04Learning.txt
-08aboutus.txt
+09aboutus.txt
