@@ -15,6 +15,7 @@ factorial_method(argument)
   return answer
 end method
 ~~~~~~~~
+{line-numbers=on}
 
 The trick is to try to build on small successes and make them bigger. First, make sure you can save the argument into a variable and return it. Does it work? Now, build on a layer of complexity by making it compute argument x (argument - 1). Is the returned answer what you expected it to be? And so on.
 
