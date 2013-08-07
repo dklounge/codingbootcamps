@@ -45,7 +45,7 @@ _(information directly provided by the founding team)_
 
 Location: 14801 Murdock St, Suite 155, Chantilly, VA 20151
 
-Website: <www.aitlearning.com>
+Website: <http://www.aitlearning.com>
 
 Twitter: <http://www.twitter.com/@aitlearning>
 
