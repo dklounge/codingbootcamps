@@ -1,19 +1,17 @@
-## Guide to Choosing a Full-Time Coding Bootcamp
-
-### and find a sweet programming job
+## Guide to Choosing a Full-time Coding Bootcamp
 
 ### By David Kim
 
 
 __*Wait, I attended one of these schools! I know something!*__
 
-Please write us with suggestions, corrections, or topics you might like to contribute! David <daviddarden11@gmail.com>.
+Please write with suggestions, corrections, or topics you might like to contribute! You can reach me at <daviddarden11@gmail.com>.
 
-Like on [Facebook/CodingBootcamp](https://www.facebook.com/CodingBootcamp)
+Please like on [Facebook/CodingBootcamp](https://www.facebook.com/CodingBootcamp)
 
 
 ### How can I contribute?
-> If you want to contribute to this open-source documentation, try:
+> If you want to contribute to this open-source documentation:
 
 1. fork the repo
 
