@@ -1,23 +1,11 @@
-# About the authors
+# About the author
 
 ## Follow David [@findinbay](http://twitter.com/@findinbay)
 
 ![David Kim](images/david-c-kim1.jpg "David")
 
-David Kim organizes [Ruby Rookies](http://twitter.com/rubyrookies) and [Product Management Fast-Track](http://www.meetup.com/productlovers/) in San Francisco.
+David Kim organizes [Ruby Rookies](http://rubyrookies.github.io/) and [Product Management Fast-Track](http://www.meetup.com/productlovers/) in San Francisco.
 
-David headed the business development at [Hack Reactor](http://hackreactor.com/). David interacts extensively with top-tier companies in the Bay Area. 
+David previously was the head of business development at [Hack Reactor](http://hackreactor.com/). David interacts extensively with top-tier companies in the Bay Area.  David is a life hacker who solves problems and enables people in the community.
 
-David is a life hacker who solves problems and creates resources by connecting people. You can follow him on Twitter: [@findinbay](http://twitter.com/@findinbay) or Github: [dklounge](http://github.com/dklounge). Ask him a question on [Quora](http://www.quora.com/David-C-Kim), or join him on a long run with [Anyone Can Run](http://www.meetup.com/Anyone-can-run-SF/) San Francisco. 
-
-## Follow Azat [@azat_co](http://twitter.com/@azat_co)
-
-![Azat Mardanov](images/azat-mardanov.jpg "Azat")
-
-Azat Mardanov has over 12 years of experience in web, mobile and software development. With a Bachelor’s Degree in Informatics and a Master of Science in Information Systems Technology degree, Azat possesses deep academic knowledge as well as extensive practical experience. 
-
-Recently, Azat has worked as a CTO/co-founder at [Gizmo](http://www.crunchbase.com/company/gizmo) — an enterprise cloud platform for mobile marketing campaigns, and has undertaken the prestigious [500 Startups](http://500.co/) business accelerator program. Previously, he was developing mission-critical applications for government agencies in Washington, DC: National Institutes of Health, National Center for Biotechnology Information, Federal Deposit Insurance Corporation, and Lockheed Martin. Azat is a frequent attendee at Bay Area tech meet-ups and hackathons ([AngelHack](http://angelhack.com) hackathon ’12 finalist with team [FashionMetric.com](http://fashionmetric.com)). 
-
-Currently, he works as an engineer at the curated social media news aggregator website, [Storify.com](http://storify.com). He mentors entrepreneurs as a hacker in residence at startup accelerator and fund [StartupMonthly](http://startupmonthly.org), where he is teaching technical [Rapid Prototyping with JavaScript and Node.js](http://www.startupmonthly.org/rapid-prototyping-with-javascript-and-nodejs.html) training to much acclaim. In his spare time, Azat writes about technology on his blog: [webAppLog.com](http://webapplog.com).
-
-Azat Mardanov teaches at Hack Reactor, a premier JavaScript software engineer training school in San Francisco. Azat is an experienced developer-educator who also mentors developers through General Assembly and as an instructor for Marakana. 
+David shares his experiences and musings [on Medium](https://medium.com/@findinbay) and [on blogger](http://findinbay.blogspot.com). You can follow him on Twitter: [@findinbay](http://twitter.com/@findinbay) or Github: [dklounge](http://github.com/dklounge). Ask him a question on [Quora](http://www.quora.com/David-C-Kim), or join him on a long run with [Anyone Can Run](http://www.meetup.com/Anyone-can-run-SF/) San Francisco.

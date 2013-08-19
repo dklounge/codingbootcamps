@@ -53,19 +53,19 @@ Take a moment to reflect. What do these reactions and feelings say about your in
 
 To learn more about getting in, talk to two groups of people:
 
-1. People who got in (we will share insights from those folks!)
-2. People who review your applications and do the interviews (we will share their insights, too!)
+1. People who got in (we share alumni experience in this guide)
+2. People who review your applications and conduct the interviews
 
-In this section, let's hear from those who are on the admissions-end of the programming courses. We share stories from the alumni in another chapter.  You may see a broad theme emerge on what it takes to get in: 1) you enjoy coding, and 2) you are a good human being.
+In this section, let's hear from those who are on the admissions-end of the programming courses. Stories from the alumni are in another chapter.  You may see two broad themes emerge on what it takes to get in: 1) you enjoy coding, and 2) you are a good human being.
 
-We asked Michael Kaiser-Nyman, founder of a programming course called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael is an alumnus of [Dev Bootcamp](http://devbootcamp.com/) and an all-around great teacher. Michael noted the following:
+We asked Michael Kaiser-Nyman, founder of a programming school called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael is an alumnus of [Dev Bootcamp](http://devbootcamp.com/) and an all-around great guy. Michael noted the following:
 
 > I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
 >
 
 Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) looks for people with high general intelligence + emotional intelligence + professionalism.
 
-> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
+> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need to be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
 >
 > It helps to have some prior coding experience, but [it is] not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
 >
@@ -79,7 +79,7 @@ Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.
 * __Technical Chops__ - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
 >
 
-From Hacker School's blog about [What We look for in Students](https://www.hackerschool.com/blog/20-what-we-look-for-in-students), we can list the following key attributes:
+From Hacker School's blog about [What We look for in Students](https://www.hackerschool.com/blog/20-what-we-look-for-in-students), one can list the following key attributes:
 
 * You enjoy programming
 * You want to get significantly better
@@ -89,11 +89,15 @@ From Hacker School's blog about [What We look for in Students](https://www.hacke
 * You have a demonstrated capacity for rigor
 * You're introspective
 
-Read the blog for more details.
+__Summary__
+
+You might be a good candidate for a coding bootcamp, if you are:
+* coding already, and eager to learn more
+* friendly person who plays well with others in a team
 
 ## Geography: Does It Matter?
 
-You might be wondering, does geography matter at all? Jeff Casimir, principal at [JumpstartLab](http://jumpstartlab.com/) responded. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
+You might be wondering, does geography matter at all? Jeff Casimir, principal at [JumpstartLab](http://jumpstartlab.com/) shared his views on Quora. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
 
 > I'm obviously biased, but will give you a quick answer anyways:
 >
@@ -108,9 +112,9 @@ You might be wondering, does geography matter at all? Jeff Casimir, principal at
 >Long story short: I don't think it matters. Pick a program that fits you and has people you like, the job part is easy.
 >
 
-It is an interesting insight, but we actually think location matters quite a lot. Certainly, it matters from a personal point of view - you should be where you are happy. Yet, location also has a big professional impact, even in this modern age of [github](https://github.com/). Many attend programming courses with the intent of finding a job in software. Geography matters because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation potential, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
+It is an interesting insight. My personal opinion is that location actually matters quite a lot. Certainly, it matters for your personal wishes - you should be where you are happy. Yet, location also has a big professional impact, even in this modern age of GitHub and Google Hangout. Many attend coding bootcamps with the intent of finding a job in software. Geography matters, because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation range, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
 
-We, the authors, live in the San Francisco Bay Area. Therefore, we are quite biased in thinking that this is one of the best places you could come to attend a full time programming course. Move here!
+Again, I am quite biased in thinking that San Francisco is one of the best places you could come to attend a full time programming course. That said ... move here!
 
 ## Class Size & Your Day In Life
 

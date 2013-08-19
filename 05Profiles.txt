@@ -4,15 +4,19 @@ _Don't try to be another 'Nat.' Be you, be 'David.' - A friend_
 
 ## A Panel Gathering
 
-Back in February of 2013, we hosted a panel event featuring 8 alumni from four San Francisco coding schools. It was organized to help local programming community members and prospective students ask questions of those who had been through the 'bootcamp' experience.
+Back in February of 2013, I hosted a panel event featuring 8 alumni from four San Francisco coding schools. It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/) organized to help [SF Ruby](http://www.meetup.com/sfruby/) community members and prospective students ask questions of those who had been through the 'bootcamp' experience.
 
 ![The Alumni Panelists](images/ThePanelists.jpg "The Alumni Panelists")
 
-It was a [Q&A meetup event](http://www.meetup.com/sfruby/events/104937692/).  While we do not repeat the questions raised during that event, we hope that the following stories and information will serve a similar purpose.
+While I do not have the actual questions asked during that evening, I hope that the following stories and information will serve a similar purpose.  I plan to continue to add to these profiles - either in future book updates or via project page:
+
+*
+
+*
 
 ![Audience](images/TheAudience.jpg "The Audience")
 
-We asked the following of each alumni:
+Without further ado, here are the responses from alumni. We asked the following of each alumni:
 
 * Name of the school.
 

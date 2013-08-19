@@ -2,13 +2,13 @@
 
 ### By David Kim
 
-
-__*Wait, I attended one of these schools! I know something!*__
+__*Wait! I attended one of these schools! I know something!*__
 
 Please write with suggestions, corrections, or topics you might like to contribute! You can reach me at <daviddarden11@gmail.com>.
 
 Please like on [Facebook/CodingBootcamp](https://www.facebook.com/CodingBootcamp)
 
+The project git hub page is [Coding Bootcamps](http://dklounge.github.io/codingbootcamps)
 
 ### How can I contribute?
 > If you want to contribute to this open-source documentation:
@@ -24,3 +24,10 @@ Please like on [Facebook/CodingBootcamp](https://www.facebook.com/CodingBootcamp
 5. push to the branch - `git push origin my-new-section`
 
 6. create a new pull request (this is done through the repo on github.com)
+
+### Donation is love
+You can also donate by purchasing copies of this book as published on the Leanpub platform. Purchase a copy for yourself or for a friend.
+
+[leanpub.com/coding-bootcamps](https://leanpub.com/coding-bootcamps)
+
+*Thank you!*
