@@ -22,7 +22,6 @@ That said, we would also point out that a lot of what is taught through coding s
 >Find a pet project.  The best way to learn is by doing, and trying to solve a problem that you're passionate about. It could be a scheduler for walking your dog, an online scorecard for your bowling league, or a lunch picker.  Find a pet project you can build outside of class using the technology you're learning inside of class.
 >
 
-
 __Successful Students__
 
 What does a successful student look like?  From my interaction with many graduates of programming course around San Francisco, I have observed the following from high caliber performers. Strong students:
@@ -44,23 +43,7 @@ Founders of coding academies understand this and can sympathize with you. Sachin
 
 >"Everything is difficult before its gets easy." Follow this mantra. Most students are scared and have self doubts that they do not have what it takes to be coder. From my experience most students tend to underestimate themselves and overestimate the time it will take them to learn. Do not let fear guide you out of learning. Just go for it. I promise after couple of months of caffeine loaded coding sessions you will see world differently.
 
-## The Factory of Good Habits
-
-The observation by Aristotle we cited at the head of this section is commonly paraphrased: "Excellence is a habit." There are two great books about habits: __The Power of Habit__ by Charles Duhigg, and __The 7 Habits of Highly Effective People__ by Stephen Covey. And it struck us: the difference between a senior and junior software engineers is not only in the size of their paycheck; more importantly it is in their habits!
-
-![Students](images/HackReactorStudents.jpg "Students Forming Habits")
-
-Let’s be honest here. Majority of the day-to-day coding problems are solved by an extensive google search. On the other hand, good habits make any engineer more efficient by:
-
-* Coach students to prevent making common mistakes (or mistake prone code) in the first place. These might include teaching patterns, test-driven development (TDD), and language convention habits.
-
-* Helping students come up with solutions faster, e.g., debugging and thinking habits.
-
-In our opinion, good Programming Course provides an excellent structure for helping individual students form good habits with expert guidance. There is a third element associated with the programming course learning environment: your peers.
-
-* In many ways, the greatest benefit of attending a programming course will be your interaction with the other students. In a good program, you will engage each other and enlighten each other. Seemingly impossible challenges will seem bearable, even enjoyable.  This is the power, after all, of all organizations.  It is the power of leveraging each other - a sharp sword sharpening another sharp sword.
-
-We recognize that some software engineers are solving cutting-edge (not on StackOverflow) problems. For them, it is even more important to rely on good habits to get the trivial things out of the way.
+![Students](images/HackReactorStudents.jpg "Developers in Development")
 
 ## What Would a Senior Software Engineer Say?
 

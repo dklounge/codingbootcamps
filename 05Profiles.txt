@@ -10,13 +10,13 @@ Back in February of 2013, I hosted a panel event featuring 8 alumni from four Sa
 
 While I do not have the actual questions asked during that evening, I hope that the following stories and information will serve a similar purpose.  I plan to continue to add to these profiles - either in future book updates or via project page:
 
-*
+* Would you like your profile featured? Please complete this survey: [http://goo.gl/QUCwSR](http://goo.gl/QUCwSR)
 
-*
+* This book is open-sourced under Creative Commons. Please feel free to contribute directly and practice git workflow: [Coding Bootcamps project page](http://dklounge.github.io/codingbootcamps/)
 
 ![Audience](images/TheAudience.jpg "The Audience")
 
-Without further ado, here are the responses from alumni. We asked the following of each alumni:
+Now onto profiles. We asked the following of each alumni:
 
 * Name of the school.
 
@@ -212,7 +212,7 @@ Share your story: [http://goo.gl/wGhN4](http://goo.gl/wGhN4)
 
 * What programming languages did the official curriculum cover?
 
->Ruby & Ruby on Rails, JavaScript, CSS3/HTML5
+>Ruby & Ruby on Rails, JavaScript, SQL, CSS3/HTML5
 >
 
 * Where do you now work and what is your role? (optional)
@@ -225,23 +225,72 @@ Share your story: [http://goo.gl/wGhN4](http://goo.gl/wGhN4)
 >No
 >
 
-## Who should not attend?
+## Scott Rogers, App Academy 2013 (New York)
 
-While most schools will have refined its admissions process to filter out poor matches, it is inevitable that some people will find themselves in a less than ideal position. Are you afraid of buyer's remorse? In a sense, this entire book is intended to help you avoid that pain. We went straight to the source and asked the alums who should not attend.
+* What is your favorite memory from the Program?
 
-Some pointed out how important it is to be committed - this is related to the theme of what makes a successful student we covered in a prior chapter.
+>Demo days for the two capstone projects. I make weird apps, so it was pretty funny.
+>
+
+* Tell us a story around your decision to attend. What were your goals?
+
+>I needed out of organic chemistry because the field is insane. I wanted to become a capable developer who had the solid foundation necessary to become capable of teaching himself new technologies.
+>
+
+* And why did you choose your particular school?
+
+>App Academy was the only one I got into. I interviewed Flatiron School and Launch Academy in Boston, but App Academy was my top choice due to finances.
+>
+
+* What were you doing before attending?
+
+>Organic Chemistry
+>
+
+* What is the #1 reason you would recommend your school to a friend?
+
+>You will learn more than ever, and you will harder than ever, with classmates and instructors that really want you to succeed.
+>
+
+* What programming languages did the official curriculum cover?
+
+>Ruby & Ruby on Rails, JavaScript, SQL, CSS3/HTML5
+>
+
+* Where do you now work and what is your role? (optional)
+
+>Amplify Education, Software Engineer
+>
+
+* Did you have a CS degree before attending?
+
+>No
+>
+
+## Who Should Not Attend?
+
+While most schools will have refined its admissions process to filter out poor matches, it is inevitable that some people will find themselves in a less than ideal position. Are you afraid of buyer's remorse? In a sense, this entire book is intended to help you avoid that pain. So, we went straight to the source and asked the alums who should not attend.
+
+__Commitment__
+
+Some pointed out how important it is to be committed - this is related to the theme of what makes a successful student we covered in a prior chapter. One alum noted:
 
 >I think it really comes down to commitment -- if you're not more or less certain that you want to learn web development and work as a web developer, you're going to have a shitty experience.  It's not a place to figure your shit out.
 >
 
-This point was reiterated by others who pointed out "anyone who is not 100% invested will NOT be able to keep up."
+This point was reiterated by others who pointed out "anyone who is not 100% invested will NOT be able to keep up." Or this alum, who expressed skepticism about those who are unprepared making it out of the Program.
+
+>While people of all backgrounds CAN make it through the course, people that aren't prepared to commit themselves to the workload will probably not make it.
+>
+
+__Know What You Want__
 
 Others noted that it really is important to know what you want before you sign up: self-awareness and having conrete goals.
 
->People who are just looking for a job, rather than a career and a passion.
+>People who are just looking for a job, rather than a career and a passion [should not attend].
 >
 
-And as you might expect, and as we have touched upon, you really should not make this an academic exercise. If you think coding is for you, don't wait, start coding today. Take tutorials (see our appendix of resources), talk to web developers, just start writing code.
+And as you might expect, you really should not make this an academic exercise. If you think coding is for you, don't wait, start coding today. Take tutorials (see our appendix of resources), talk to some web developers. Just start writing code.
 
 >First, you should not attend if you are not sure that web development is for you. You should make a few decent-sized web apps to see how you like it. Maybe try a program that requires an intermediate amount of dedication to test your aptitude and level of interest.
 >

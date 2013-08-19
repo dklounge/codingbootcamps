@@ -11,68 +11,71 @@ __Useful Quora Threads__
 
 __Student and Alumni Blog__
 
-If you have good ones to add to this list or would like your story featured, please email us.
+If you have good ones to add to this list or would like your story featured, please write me!
 
-* [Logic Mason](http://logicmason.com/) - Mark Wilbur, a Hack Reactor alum (San Francisco)
 * [Cirles and Dots](http://michelleglauser.blogspot.com/) - Michelle Glauer, a Hackbright alum (San Francisco)
 * [Natasah the Robot](http://natashatherobot.com/) - Natasha Murashev, a Dev Bootcamp alum (San Francisco)
+* [Logic Mason](http://logicmason.com/) - Mark Wilbur, a Hack Reactor alum (San Francisco)
+
+__Practice, Practice, Practice__
+
+So, there's really no substitute for writing lines of code. I always tell friends "keep pushing that code." If you don't know `git push` yet, you will. Here are some of my favorite exercises for beginners to begin writing and pushing actual lines of code to GitHub (as opposed to reading or coding in browser-only).
+
+* [ProjectEuler.net](http://projecteuler.net/) - somewhat "mathy," but these will have you getting comfortable with all of the basics of programming, from data types and control flows to data structures.
+* [CodeEval](https://www.codeeval.com/) - similar to ProjectEuler, though a key difference is that many challenges are actually sponsored by hiring companies. Pass these, and you get a chance to hit an __apply__ button to real jobs.
+* [RailsApps Tutorials](http://railsapps.org/) - this tutorial is written by a great SF teacher, and I highly recommend it! You can follow Daniel on twitter [@danielkehoe](https://twitter.com/danielkehoe)
+
+The following sections will list additional resources. The truth is that you won't have time to look at them all. It also goes to show just how much information is out there in the world to teach you how to code. You have no excuse! :) Survey the resources, pick a few that you think would work for you, and then keep at it!
+
+>Keep pushing!
+>
 
 ## Beginner Coding Tutorials
 
 * [rubymonk](http://rubymonk.com)
 * [Code School](http://codeschool.com/)
-* [RailsApps Tutorials](http://railsapps.org/)
 * [Ruby on Rails Tutorial by Michael Hartl](http://ruby.railstutorial.org/)
-* [ProjectEuler.net](http://projecteuler.net/)
 * [SQLZoo](http://sqlzoo.net/wiki/Main_Page)
 * [JumpstartLab Tutorials](http://tutorials.jumpstartlab.com/)
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/)
-* [Peep Code Screencasts](https://peepcode.com/): subscription-based website where you could choose from lots of technologies and frameworks, e.g., RoR, JS, NodeJS. 
-* [ScreenCasts.org](http://screencasts.org/): emerging JavaScript screencast hub. 
-* [Backbone Screencasts](http://backbonescreencasts.com/): all the things BackboneJS on a pay-as-you-go basis. 
-* [NodeTuts](http://nodetuts.com/): Node.js Free screencast tutorials for NodeJS. 
+* [Peep Code Screencasts](https://peepcode.com/): subscription-based website where you could choose from lots of technologies and frameworks, e.g., RoR, JS, NodeJS.
+* [ScreenCasts.org](http://screencasts.org/): emerging JavaScript screencast hub.
+* [Backbone Screencasts](http://backbonescreencasts.com/): all the things BackboneJS on a pay-as-you-go basis.
+* [NodeTuts](http://nodetuts.com/): Node.js Free screencast tutorials for NodeJS.
 
-## Advanced JS Tutorials
-
-* [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-* [Step by step from jQuery to Backbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md)
-* [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
-
-## Video Tutorials
+__Video Tutorials__
 
 * [Railscasts by Ryan Bates](http://railscasts.com/)
 * [The Intro to Rails Screencast I Wish I Had](http://youtu.be/cMcEgOPza8A)
 * [Udacity CS101 with David Evans](https://www.udacity.com/course/cs101)
 
-## Coding Blogs & Newsletters
+## JavaScript Tutorials
+
+* [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [Step by step from jQuery to Backbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md)
+* [Douglas Crockford on JavaScript](http://javascript.crockford.com/)
+* [Leaning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Coding Blogs & Newsletters & Other Sites You Should Know
 
 * [DailyJS](http://dailyjs.com/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.is (Sexy)](http://javascriptissexy.com/)
+* [Superhero.js](http://superherojs.com/) - A collection of best stuff on JS
+* [DevDocs](http://devdocs.io/) - All-in-one API documentation
+* [stackoverflow](http://stackoverflow.com/) - Get your coding questions answered
+* [github](https://github.com/) - Brose open source projects and start reading other people's code
 
 ## Massive Open Online Courses
 
-Here is a brief overview of free online courses:
+Use these resources to learn programming and beyond:
 
-* [Udacity](http://udacity.com/): high quality free courses consisting of short videos with quizzes, homework, tests, engaging discussions among faculty and students, multiple levels of certification, job board featuring student profiles.
-* [Coursera](http://coursera.org/): same free high quality content as Udacity with broader selection of courses.
-* [edX](https://www.edx.org/): similar concept as Coursera or Udacity; edX courses involve professors from MIT, Harvard and other top-tier universities.
-* [Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php): free online videos of Stanford University classes.
-* [CodeAcademy](http://www.codecademy.com/): ability to learn JavaScript (other languages like Ruby on Rails are coming soon!) in your browser with automated tests.
-
-## Other Free Online Courses
-
-These courses like [Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php) are less comprehensive than MOOCs and usually lack discussion boards, tests and certification:
-
-* [Academic Earth](http://www.academicearth.org/): free online classes and online learning tools from Ivy League universities, Massachusetts Institute of Technology, Stanford University, University of California at Berkeley and others.
-* [Open.Michigan](http://open.umich.edu/): hub for openly licensed educational content initiated by the University of Michigan.
-* [webcast.berkeley](http://webcast.berkeley.edu/): UC Berkeley’s central service for online video & audio for students and learners around the globe.
-* [Open Yale Courses](http://oyc.yale.edu/): free and open access to a selection of introductory courses taught by distinguished teachers and scholars at Yale University.
-* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm): free publication of MIT course materials that reflect almost all the undergraduate and graduate subjects taught at MIT.
-
-## Paid Online Courses
+* [Udacity](http://udacity.com/)
+* [Coursera](http://coursera.org/)
+* [edX](https://www.edx.org/)
+* [Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
 
 These websites offer a wide variety of classes at relatively small cost:
 
@@ -82,10 +85,3 @@ These websites offer a wide variety of classes at relatively small cost:
 * [iTunes U](http://www.apple.com/education/itunes-u/): mostly videos and textbooks from top universities like Yale.
 * [Lynda](http://www.lynda.com/): paid business and software-oriented courses with homework, labs and tests.
 
-## Other Awesome Resources
-
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Superhero.js](http://superherojs.com/) - A collection of best stuff on JS
-* [DevDocs](http://devdocs.io/) - All-in-one API documentation
-* [stackoverflow](http://stackoverflow.com/) - Get your coding questions answered
-* [github](https://github.com/) - Brose open source projects and start reading other people's code
