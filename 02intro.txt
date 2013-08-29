@@ -1,0 +1,28 @@
+# Introduction
+
+_When you come to a fork in the road, take it. - Yogi Berra_
+
+## Preface
+
+You are about to start on a fun journey. Do not sit back with this information; instead, actively engage it. Use it as a starting point for further inquiries. Keep learning to code independently of your application process. Keep learning broadly and explore your interests. Certainly, other questions should come to your mind. Feel free to talk to friends or reach out to people at Coding Bootcamps to further your research.
+
+If you haven't already asked, _ask yourself why you want to attend a coding bootcamp_. Are you a career switcher? Are you seeking to add a skill to your existing portfolio? Do you want a convenient, and guided way to learn a new programming language?  Or are you simply enticed by the dream of becoming your own technical co-founder, and building the next famous Silicon Valley company?
+
+## A Toolkit for Your Decision
+
+I wrote this brief guide as a tool to help you decide whether to attend an intense, full-time coding bootcamp. You may hear others describe it as a hacker school or programming school.
+
+It is a big leap to quit your day job, and enroll in a full-time Coding Program. Should you take the plunge?  The decision to attend can be financially expense, and personally disruptive. And there are other related questions on your mind: Does it make sense move to a new City? Will I have a job after I graduate? Who will my classmates be?  Do I really want to work as a software developer?  How good a developer will I actually become after a full-time program?  Couldn't I just learn to program on my own?
+
+You are reading this guide, because you want to be better informed about your decision. You do not want to spend next several months of your life and upwards of $11,000 of investment only to be unemployed, or worse, to regret your decision and still be uncertain about what you want out of life and career. That's why I wrote this guide. I had the privilege of working closely with coding bootcamp staff and with high-tech managers. This guide aggregates insider insights and experiences to share with you.
+
+This guide is also a set of stories, because listening to stories of others can help us navigate our own. And learning to tell stories will be an important component of making your decision as well as succeeding in a job search. I hope that the bits and pieces of stories and advice found in this guide will be useful to you, and save you time in your exploration.
+
+## Goals
+
+Remember. Only you can decide what you want out of life! Our role simply is to furnish you with constructive thoughts and useful information to help you in your journey. To that end, our goals are:
+
+1. Provide general overview of Coding Bootcamps and their context
+2. Identify and aggregate pertinent information to save you time
+3. Introduce stories of other people who took the plunge
+4. Curate learning materials to help further your learning process

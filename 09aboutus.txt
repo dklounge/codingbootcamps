@@ -1,0 +1,11 @@
+# About the author
+
+## Follow David [@findinbay](http://twitter.com/@findinbay)
+
+![David Kim](images/david-c-kim1.jpg "David")
+
+David Kim organizes [Ruby Rookies](http://rubyrookies.github.io/) and [Product Management Fast-Track](http://www.meetup.com/productlovers/) in San Francisco.
+
+David previously was the head of business development at [Hack Reactor](http://hackreactor.com/). David interacts extensively with top-tier companies in the Bay Area.  David is a life hacker who solves problems and enables people in the community.
+
+David shares his experiences and musings [on Medium](https://medium.com/@findinbay) and [on blogger](http://findinbay.blogspot.com). You can follow him on Twitter: [@findinbay](http://twitter.com/@findinbay) or Github: [dklounge](http://github.com/dklounge). Ask him a question on [Quora](http://www.quora.com/David-C-Kim), or join him on a long run with [Anyone Can Run](http://www.meetup.com/Anyone-can-run-SF/) San Francisco.

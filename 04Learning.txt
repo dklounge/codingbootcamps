@@ -1,0 +1,57 @@
+# How to Learn
+
+_We are what we repeatedly do. - Aristotle_
+
+## Can You Learn on Your Own?
+
+One of the biggest questions on your mind when you started reading this guide was: "Can I learn all of this on my own?" A better set of questions, which some might have asked, would be: "What resources do I have at my disposal for learning how to code? Do substitutes exist for a formal full-time immersive programming course?"
+
+As we touch upon in FAQ section, the short answer is YES. So refer to the FAQ and appendix of Prep Resources to find links to learning resources that will help you learn and grow. That said, it is worth while noting that people don't invest in joining a coding bootcamp simply because they think they can't learn on their own.  There are plenty of reasons why you might want to learn in a school environment, including:
+
+* Saves you time - accelerates learning
+* There's a safety net of someone to help you get unstuck
+* Mentorship of more senior software engineers, as well as feedback
+* Support of peers
+* Structure to anchor motivation
+* Well-packaged information (essentially paying for convenience)
+
+And the list could go on.
+
+That said, we would also point out that a lot of what is taught through coding schools is how to learn. How to learn to be a better coder through lectures, peer programming, and exposures to patterns and practices in an intense setting where many positive feedback loops will help you accelerate your learning. Suppose you already think you know how to learn. What then? Is the tuition and time you will need to take out worthwhile?  We posed a general question about learning and coding schools to __Gregg Pollack__, the well-known founder of [Code School](http://www.codeschool.com). He had this advice to share:
+
+>Find a pet project.  The best way to learn is by doing, and trying to solve a problem that you're passionate about. It could be a scheduler for walking your dog, an online scorecard for your bowling league, or a lunch picker.  Find a pet project you can build outside of class using the technology you're learning inside of class.
+>
+
+__Successful Students__
+
+What does a successful student look like?  From my interaction with many graduates of programming course around San Francisco, I have observed the following from high caliber performers. Strong students:
+
+* Love what they are doing - Successful students like to code, and would rather stay late at night coding than go off to do something else.
+
+* Does not fear difficult problems - Perhaps this is a little bit of the San Francisco startup mentality. But, generally, interesting problems are challenging. They are interesting, because they are challenging. As General George Patton once said: "If everyone is thinking alike, then somebody isn't thinking." And thinking alike is not something high caliber people like to do.
+
+* Humble - I love watching clips of _Britain's Got Talent_ or _X-Factor_ where a quiet, shabby looking contestant walks on the stage, and is dismissed by the judges based on looks and presence, then opens her mouth, and blows everyone away. The typical judge response: "you don't know how good you are." The thing is, you'd be surprised how many people think they rock, and actually don't. Part of it is self-awareness, part of it is humility. Truth is, if you're not humble, you will not pay attention to what's being taught, or what your peers might have to teach you. If you are not humble, you won't be open minded and make the most of all that you can gain from this journey of growing as a software engineer. This is not to confuse humility with lack of confidence. Far from it. You want to be confident, you want to cultivate certain comfort-level of dealing with uncertainty: "fake it till you make it." Successful students are humble.
+
+Feel free to add to this list, but in my humble opinion love of learning, drive to tackle challenges, and humility will take you far.
+
+
+## Pitfalls and Doubts
+
+As a new programmer, you probably have experienced an odd senstation. People frequently refer to a feeling of frustration as butting your head. I call it "Where the hell did my day go?" feeling.
+
+Founders of coding academies understand this and can sympathize with you. Sachin Rajgire, Cofounder of DC-based AIT  Learning shared the following bit of encouragement:
+
+>"Everything is difficult before its gets easy." Follow this mantra. Most students are scared and have self doubts that they do not have what it takes to be coder. From my experience most students tend to underestimate themselves and overestimate the time it will take them to learn. Do not let fear guide you out of learning. Just go for it. I promise after couple of months of caffeine loaded coding sessions you will see world differently.
+
+![Students](images/HackReactorStudents.jpg "Developers in Development")
+
+## What Would a Senior Software Engineer Say?
+
+One time, I had a chance to go on a long-run with a veteran Berkeley computer scientist. We discussed the advent of a new technical ecosystem that enable startups on demand. We also talked about the recent trend of coding as a literacy, and of various startups and tools now available to help people learn to code quickly - either independently, or by joining a programming course. During a subsequent conversation, he shared some interesting insights.
+
+>I would also say that just as there's more to being a good business type than having a lot of linkedin connections, there's more to being a good programmer than knowing a few languages and tools. We do study a lot of theory (well, some of us do) at college, and more importantly a really good programmer becomes a master craftsman like anyone else, able to really judge and build good software in the ways that really matter. This is more than what a non-programmer (or bad programmer) sees from the outside, again like any profession. I could say more in person, but again the key to understanding and appreciating what being good at the other guy's job really means, is finding someone who actually is good at that job, and then respecting them enough to listen to what they say about what it really is. I'm sure that works the other direction (me learning about non-programmers), as well.
+>
+>I'd also say that the Paul Graham article starts with the question "what kind of person is likely to make creative destruction work?" My (somewhat techie) point of view might start more with "what are my talents and interests; what is my spirituality (seriously); how can I best help the world; is this a field where high risk / high growth, i.e. creative destruction, is appropriate; if so what skills do I need in a team and how do I acquire them; etc." I think it's less about feeling inadequate because you don't know how to code, and more about figuring out what you were really born to do.
+>
+
+I think this last point is quite important. It is a surprisingly common theme that we allude to elsewhere in this book. I will say that in the best programming courses, the people who attend are there because they are seriously pursuing their passions, rather than out of some sense of inadequacy about their abilities or passing curiosity about web development.

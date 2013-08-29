@@ -1,0 +1,141 @@
+# Getting In
+
+_Know thyself - Ancient Greek maxim_
+
+## Coding Exercises
+
+__Exercise 1:__ Write a function to compute factorial of a given number, _n_, denoted _n!_.
+
+A factorial is a product of all positive integers from 1 to a given number, _n_. For example, 5 factorial (written as 5!) is 5x4x3x2x1 = 120. If you were sitting next to someone who knew very little about programming, how would you begin to outline what you are trying to do? How would you outline the structure of your code?  Let's try writing a [pseudocode](https://en.wikipedia.org/wiki/Pseudocode). It is what it sounds like - an outline of a code useful for thinking out loud and communicating with your pair visually. It won't actually "run."
+
+{line-numbers=on}
+~~~~~~~~
+factorial_method(argument)
+  answer = argument x (argument - 1) x (argument - 2) x ... x 2 x 1
+  return answer
+end method
+~~~~~~~~
+{line-numbers=on}
+
+The trick is to try to build on small successes and make them bigger. First, make sure you can save the argument into a variable and return it. Does it work? Now, build on a layer of complexity by making it compute argument x (argument - 1). Is the returned answer what you expected it to be? And so on.
+
+__Exercise 2:__ Compute 10!
+
+Many programmers first write a [recursive](http://en.wikipedia.org/wiki/Recursion) solution to this coding challenge. Now, use the function you wrote to compute 100!
+
+If you wrote a recursive solution to compute 5! or 10! did it work for 100! or 1000?  So, now what?
+
+If a recursive solution doesn't quite work, because of the computing time, how would you restructure your code?  Is there a way to compute the multiplication non-recursively from 1 to _n_? And how does that improve performance? Could you refactor your code further to take advantage of a technique called [__memoization__](http://en.wikipedia.org/wiki/Memoization)?
+
+__Exercise 3:__ Take n! and find and print the sum of the digits of the answer. For example, for 5!, the answer is 120, and the sum of its digits is 1+2+0 = 3.
+
+You see how we are building on small pieces of existing knowledge. After you'd given it a good faith effort, if you would like to reference a solution (just one among many possible), then check out this repo of Ruby implementation: [Factorial Sum](https://github.com/dklounge/euler_exercises/blob/master/pr20_factorialsum.rb)
+
+Did you enjoy trying to figure this problem out? Would you enjoy doing so with someone else next to you? Does the process of optimizing your code and make it compute faster appeal to you?
+
+## New Exercise: Listen to Yourself
+
+You either 1) didn't have enough background to successfuly attempt writing a factorial function and the variations thereof, or 2) enjoyed the exercise and want more.
+
+Before we suggest some resources for those of you on path #1 and on path #2, let's pause. It is important to reflect and pick-up signals from this experience about yourself. In our opinion, there is no shame in being frustrated. There is only shame in ignoring the meaning of that frustration. Try to take it as a constructive signal; there is always a path forward.  As you will see below, most programming courses select for those who have demonstrated intent and ability to code.
+
+__Path #1: More Prep Materials__
+If you need more basics - try this [Ruby in 100 Minutes Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) by [JumpstartLab](http://jumpstartlab.com).
+
+__Path #2: More Programming Exercises__
+If you found the Factorials exercise too easy, try your hand at some more challenging algorithms using language of your choice by browsing [Project Euler](http://projecteuler.net/) exercises.
+
+As you try these exercises & tutorials, rather than focusing on the content per se, observe your feelings and thoughts during the learning process. How does it feel?  Does the prospect of seeing bunch of new keywords annoy you? frustrate you? scare you? or excite you?  As the volume of information and difficulty of concepts rise, how do you react? Do you see yourself taking a break and hesitate to return to the material? Or does the exposure to the basic concepts and keywords set you about searching for more detail on wikipedia or Stack Overflow?
+
+Take a moment to reflect. What do these reactions and feelings say about your interests? About your character?  The answers to these questions will not necessarily give you predictive information about whether or not you will do well in a full-time programming course. However, we believe these questions are vital to address for you to be happy and successful in life. Your feelings may be a window as to how much you might or might not enjoy a career in software engineering.  (There is a small catch to this logic. People tend to enjoy what they excel in; it is easy and effortless. However, that excellence and ease comes as a result of hard - and often frustrating - work!)
+
+## Admissions: Learning From Those Who Went Before Us
+
+To learn more about getting in, talk to two groups of people:
+
+1. People who got in (we share alumni experience in this guide)
+2. People who review your applications and conduct the interviews
+
+In this section, let's hear from those who are on the admissions-end of the programming courses. Stories from the alumni are in another chapter.  You may see two broad themes emerge on what it takes to get in: 1) you enjoy coding, and 2) you are a good human being.
+
+We asked Michael Kaiser-Nyman, founder of a programming school called [Epicodus](http://www.epicodus.com/) (Portland, Oregon formerly in Sacramento, California). Michael is an alumnus of [Dev Bootcamp](http://devbootcamp.com/) and an all-around great guy. Michael noted the following:
+
+> I can't speak for any other coding school, but the two things I look for in Epicodus applicants. First, they should have tried programming before, so that they know that they like it. Second, they should be a good team player.
+>
+
+Sean Daken, founder of [RefactorU](http://refactoru.com/) (Boulder, Colorado) looks for people with high general intelligence + emotional intelligence + professionalism.
+
+> We want people who are passionate about the path they are pursuing, who have a sense of urgency, and who have maturity in spades.  Successful applicants need to be able to communicate very well, be driven and willing to work hard, and be able to learn and apply new concepts quickly.  Basically, we're looking at applicants through the lens of a hiring manager - smart, driven, passionate, very strong communicator, etc.  We actually score applicants quantitatively and qualitatively based on perceived raw general intelligence, communication skills, professionalism, passion, how much they have invested up to the point of the application in learning on their own, etc.  We determine the score based on a combination of their application responses, interviews, and in some cases reference checks.
+>
+> It helps to have some prior coding experience, but [it is] not absolutely required.  It is important that people have tried to learn something related to programming on their own, not so much for what that is in particular but that it shows that they have taken initiative and are serious.  The best candidates have all of the qualities I mentioned above AND have tried to learn as much as possible on their own.  They know what they want and know that RefactorU is the most efficient path to getting them there.
+>
+
+Shawn Drost, a co-founder San Francisco-based [Hack Reactor](http://hackreactor.com/) lists the following key attributes during the admissions process:
+
+>* __Drive__ - We want to work with people that will push themselves and their peers to surprising amounts of success.
+* __Warmth__ - The school ends up being like a family, and my cofounders and I go to crazy lengths for our students that don't make any sense from a business perspective.  Life is too short to spend time with assholes, even when they're all-stars by other metrics.
+* __Effectiveness__ - It turns out that getting things done is a unique skillset that carries over between careers/environments.  We like effective people -- those skills apply just as well to software engineering.
+* __Intellect__ - Raw horsepower also matters.
+* __Technical Chops__ - Many intelligent people will never become software engineers, either because they don't actually have a deep interest in the field or because it just doesn't align with their mindset.  We ensure that applicants have learned the first 10% on their own, mostly so that we know for sure that they can clear those hurdles.
+>
+
+From Hacker School's blog about [What We look for in Students](https://www.hackerschool.com/blog/20-what-we-look-for-in-students), one can list the following key attributes:
+
+* You enjoy programming
+* You want to get significantly better
+* You're friendly
+* You're self-directed
+* You're intellectually curious
+* You have a demonstrated capacity for rigor
+* You're introspective
+
+__Summary__
+
+You might be a good candidate for a coding bootcamp, if you are:
+* coding already, and eager to learn more
+* friendly person who plays well with others in a team
+
+## Geography: Does It Matter?
+
+You might be wondering, does geography matter at all? Jeff Casimir, principal at [JumpstartLab](http://jumpstartlab.com/) shared his views on Quora. Asked what the advantages of attending a programming course in San Francisco Bay Aarea might be:
+
+> I'm obviously biased, but will give you a quick answer anyways:
+>
+>Not being in the SF ecosystem has plusses and minuses. On the downside, if you're in SF, you're a little minnow in a giant pool. Your cost of living during the program is super high. People probably haven't heard of the program you're in.
+>
+>On the other hand, they're craving developers. You can't turn around in the coffee shop without bumping into someone hiring. You can easily interview in person rather than scheduling trips or doing it over Skype.
+>
+>Being anywhere EXCEPT SF has minuses, too. Here in Denver there are dozens of jobs, not hundreds. Being here you're not totally immersed in the tech culture -- people are more likely to talk about mountain biking than slinging code.
+>
+>On the upside, there are way more job here than our students will fill up. I expect about 12 of our 23 students to stay in Colorado. You're a small fish in a small pond -- people have heard of our program, they've been to our office -- essentially our program is the most interesting thing going on in Denver tech. Outside of Colorado, people are coming from SF, Seattle, Portland, NYC, etc to interview and (hopefully) hire our students.
+>
+>Long story short: I don't think it matters. Pick a program that fits you and has people you like, the job part is easy.
+>
+
+It is an interesting insight. My personal opinion is that location actually matters quite a lot. Certainly, it matters for your personal wishes - you should be where you are happy. Yet, location also has a big professional impact, even in this modern age of GitHub and Google Hangout. Many attend coding bootcamps with the intent of finding a job in software. Geography matters, because location (e.g. San Francisco) directly impacts 1) quantity of jobs, 2) quality of jobs, 3) compensation range, 4) community of like-minded peers, and 5) density of industry experts from whom you can learn more. Clearly, each one of these factors are very important, not to mention combinations of them.
+
+Again, I am quite biased in thinking that San Francisco is one of the best places you could come to attend a full time programming course. That said ... move here!
+
+## Class Size & Your Day In Life
+
+Certainly, this is one of the attributes you should learn about the programming course.  (See our Appendix of Courses for a starting list.)  We won't go deeply into this topic as it is self-explanatory. Hopefully, most of you gave some thought to what the learning environment will feel like in a group. We just want to make sure we debunk the somewhat romanticized myth of a loner programming genius.
+
+![A Ruby Rookies Meetup](images/PairProgramming.jpg "RubyRookies")
+
+The truth is, that unless your goal is to work as a solo programmer-contractor or as a solo entrepreneur, you will be working in teams. And you will have a boss - whether that boss is a manager or a customer. That point is probably well understood. So, if you've never done it before, how can you simulate programming in a group? One easy way would be to join a local coding meetup. The quality of this technique depends on where you live, but the point is that you are making an effort to simulate what it might be like to join a 3-month long programming course, bootcamp-style, and work day and night with your peers, discussing lines of code, listen to lectures, walk out to lunch together, come back and do more coding. Does that sound fun to you or not?  It is very important to imagine yourself in this setting. It is not to say that if the idea doesn't appeal to you, you should quit this journey. Rather, the intent here is to help you become more self-aware and to suggest a technique you can apply to simulate the experience (find a friend to pair, join a meetup group, start a study group, etc.).
+
+Building on that note, what would your day-in-life would look like at a programming school?
+
+The following is a link to day in the life from a well-known San Francisco programming course called [Dev Bootcamp: A Day in the Life](http://devbootcamp.com/2013/02/11/a-day-in-the-life-at-dev-bootcamp/).
+
+As a side note about solo programmers, they do exist. Talk to enough companies, and you'll find that there is bound to be a "mad scientist" type of roles!
+
+## About Changing Trends
+
+Nearly nothing in life is constant, and this is especially so in high tech. This also is true of programming courses; they are constantly changing. Everything about them! The curriculum is evolving, the applicant talent pool and admissions criteria are rising. Even the employer needs for technical talent grows and wanes. One of us was an early applicant to a San Francisco-based programming course (was admitted, and decided not to attend).
+
+There are some takeaways from the changing trends:
+
+1. If you have resolved your doubts about attending, there is value to applying early. Either the competition will be thinner now (compared to future), or you will have a chance to measure yourself sooner and update your skills or career expectations accordingly.
+
+2. If your ultimate dream is not to work as a software engineer, then you may want to step back for a "gut check." Is this what you really want to do, or are you chasing a trend?  Remember, what is cool, or in demand today may not be tomorrow.
